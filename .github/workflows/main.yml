@@ -23,6 +23,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: Logseq Publish 🚩
         uses: pengx17/logseq-publish@main
+        with:
+          trace: false
       # Inject custom scripts
       - name: Inject Script
         run: sed -i "s@</body>@$( cat logseq/inject.html | tr '\n' ' ' | sed 's@&@\\&@g' )</body>@"  www/index.html
