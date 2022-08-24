@@ -24,8 +24,8 @@ jobs:
       - name: Logseq Publish 🚩
         uses: pengx17/logseq-publish@main
       # Inject custom scripts
-		  - name: Inject Script
-		    run: sed -i "s@</body>@$( cat logseq/inject.html | tr '\n' ' ' | sed 's@&@\\&@g' )</body>@"  www/index.html
+      - name: Inject Script
+        run: sed -i "s@</body>@$( cat logseq/inject.html | tr '\n' ' ' | sed 's@&@\\&@g' )</body>@"  www/index.html
 		  # to make sure asset paths are correctly identified
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
