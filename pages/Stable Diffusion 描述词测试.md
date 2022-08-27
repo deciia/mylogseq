@@ -14,14 +14,16 @@
 - 描述词关键词参数
 	- 内容描述
 	- 画种、风格
-		- 常用样式
+		- ### 视觉风格
 			- Realistic  写实
 			- Oil painting 油画
 			- Pencil drawing / Pen drawing 铅笔画，钢笔画
 				- 素描
 			- Concept art 概念艺术
 				- 原画、游戏原画
-		- 海报
+		- ### 商业插画角度
+			- 海报
+		- ### 绘制手法和国家
 		- 场景设计、概念设计、建筑设计
 		- 抽象艺术
 			- 超现实主义
@@ -56,6 +58,7 @@
 			- 暗黑/奇异/神秘
 			- 自然风
 			- 书籍插画、文章插画、编辑插画
+			- 广告与包装插画
 		- 中国年画、中国画
 		- 纸艺艺术
 			- 剪纸
@@ -72,7 +75,8 @@
 		- 作品形式，比如Fate
 		- 游戏概念插画，美国插画师David Le Merrer，游戏《Super Lucky's Tale》
 		- 概念插画，保加利亚插画师Hristo Chukov，动画项目《Mouse Guard》
-		-
+		- 广告包装插画，俄罗斯插画师Vera Zvereva
+		- 设计的包装插画，白俄罗斯插画师Anastazi Li，环保涂料品牌Color Care
 	- 渲染方式
 		- 图片作品发布平台
 			- 《The New Yorker》封面插画
