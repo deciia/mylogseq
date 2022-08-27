@@ -26,7 +26,6 @@
 				- 环境细节，描述画面里包含的东西
 					- 什么样的环境，有什么，什么样的结构，关系有什么（慎用动词）
 		- 画面类型（前缀）
-		  collapsed:: true
 			- 好用推荐:
 				- A beautiful painting 
 				  一幅美丽的油画(插画)
@@ -43,7 +42,6 @@
 				- A ukiyo-e print
 				   一张浮世绘
 		- 细化元素
-		  collapsed:: true
 			- 什么场景
 			  collapsed:: true
 				- 紫禁城、哥特风、未来城市、亭台楼阁、空间站
@@ -318,6 +316,7 @@
 			- [AI绘画，提示语经验分享 - 哔哩哔哩](https://www.bilibili.com/read/cv15746899)
 - 描述词关键词参数
 	- 参数格式
+	  collapsed:: true
 		- 风格
 			- 艺术家
 				- 内容性质
@@ -343,11 +342,11 @@
 						- Alfred Bierstadt
 						- Frederic Edwin Church
 			- 质感
-			  collapsed:: true
 				- 噪点
 				- 颗粒质感
 				- 肌理质感
 				- Oil painting 油画
+				  collapsed:: true
 					- 艺术家
 						- Leonardo DaVinci
 						- Vincent Van Gogh
@@ -536,6 +535,8 @@
 		- 参考资料
 			- [【插画】NO.3 插画风格 | 史上最全整理 |多图预警 - 知乎](https://zhuanlan.zhihu.com/p/365802870)
 			- [插画 (illustration) 是否也分风格流派？ - 知乎](https://www.zhihu.com/question/23362525/answer/1922755809)
+			- [Disco Diffusion Modifiers | Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-modifiers/#top)
+			- [Disco Diffusion 70+ Artist Studies | Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-70-plus-artist-studies/)
 	- 艺术家
 		- 作品形式，比如Fate
 		- 游戏概念插画，美国插画师David Le Merrer，游戏《Super Lucky's Tale》
@@ -615,4 +616,5 @@
 		- ![image.png](../assets/image_1661520350429_0.png)
 		- Girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
 - 描述测试二
-	-
+	- 用disco diffusion 的描述词格式尝试一下
+		- A ink drawing of study,
