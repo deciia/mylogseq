@@ -26,7 +26,6 @@
 				- 环境细节，描述画面里包含的东西
 					- 什么样的环境，有什么，什么样的结构，关系有什么（慎用动词）
 		- 画面类型（前缀）
-		  collapsed:: true
 			- 好用推荐:
 				- A beautiful painting 
 				  一幅美丽的油画(插画)
@@ -63,17 +62,21 @@
 				- waaterlily pond/睡莲池
 				- lotus pond/荷花池
 			- 有哪些元素
+			  collapsed:: true
 				- 尽量通俗简洁、大众化表达
 				- 山、河、月、花、阳光
 			- 结构关系
+			  collapsed:: true
 				- 在什么里面： in
 				- 在什么上面：above
 				- 有什么：there are / with
 			- 什么颜色
+			  collapsed:: true
 				- 单色：yellow color
 				- 两种颜色：black and white
 				- 颜色：colorful
 			- 艺术家风格：能找到出处的艺术家
+			  collapsed:: true
 				- A 站：artstation
 				- 知名画家：Monet Van GOgh
 		- 描述语控制画面
@@ -348,12 +351,12 @@
 			  collapsed:: true
 				- 平涂
 				- 表现彩插
-			- Realistic  写实
 			- 质感
 			  collapsed:: true
 				- 噪点
 				- 颗粒质感
 				- 肌理质感
+					- 抽象股理
 				- Oil painting 油画
 				  collapsed:: true
 					- 艺术家
@@ -372,6 +375,7 @@
 					- 商业项目插画
 					- 2.5D等距视角风格
 			- 图形
+			  collapsed:: true
 				- 肖像画
 				  collapsed:: true
 					- 艺术家
@@ -392,35 +396,47 @@
 				- 极简
 				- 哥特建筑
 				- 少女
-			- 流派
+				- Q版卡通
+			- 文化流派
 			  collapsed:: true
 				- 欧美流派
-					- 现实主义、印象派、野兽派、新艺术、表现主义、立体主义、未来主义、抽象派、达达主义、至上主义、形而上主义、超现实主义、行动画派、极简艺术、波普艺术。古典主义、新古典主义、浪漫主义、后印象派、现代派及未来派？
-						- 抽象艺术
-						- 超现实主义
-						  collapsed:: true
-							- 奇幻、科幻
-							- 赛博朋克
-							- 克苏鲁 Cthulhu
-						- 佛罗伦萨画派
-						  collapsed:: true
-							- 达芬奇、米开朗基、罗拉斐尔
-						- 浪漫主义
-						  collapsed:: true
-							- 借里柯、戈雅德拉、克洛瓦
-						- 现实主义
-						  collapsed:: true
-							- 杜米、埃库尔
-						- 印象画派
-						  collapsed:: true
-							- 马奈、雷诺阿
-						- 立体派
-						  collapsed:: true
-							- 毕加索、波拉克
-						- 抽象派
-						  collapsed:: true
-							- 康定斯基、蒙特里安
-						- 复古
+					- 现实主义，Realistic  写实
+						- 杜米、埃库尔
+					- 印象派
+					  collapsed:: true
+						- 马奈、雷诺阿
+					- 野兽派
+					- 新艺术
+					- 表现主义
+					- 立体派，主体主义
+					  collapsed:: true
+						- 毕加索、波拉克
+					- 现代派
+					- 未来主义
+					- 抽象派
+					- 达达主义
+					- 至上主义
+					- 形而上主义
+					- 超现实主义
+					  collapsed:: true
+						- 奇幻、科幻
+						- 赛博朋克
+						- 克苏鲁 Cthulhu
+					- 行动画派
+					- 极简艺术
+					- 波普艺术
+					- 佛罗伦萨画派
+					  collapsed:: true
+						- 达芬奇、米开朗基、罗拉斐尔
+					- 浪漫主义
+					  collapsed:: true
+						- 借里柯、戈雅德拉、克洛瓦
+					- 抽象派
+					  collapsed:: true
+						- 康定斯基、蒙特里安
+					- 复古，古典主义
+					- 新古典主义
+					- 后印象派
 				- 中国画流派
 					- 花鸟画
 					  collapsed:: true
@@ -467,8 +483,7 @@
 							- 张大千
 						- 中国抽象派
 							- 赵春翔、吴冠中、应诗流、李磊、韩煜、樱馨、吴震寰等
-			- 二次元 comic，动画Anime，漫画Manga
-			- Q版卡通
+				- 二次元 comic，动画Anime，漫画Manga
 			- 情感氛围
 			  collapsed:: true
 				- 暗黑/奇异/神秘
@@ -476,7 +491,6 @@
 					- 玩味夸张人物风格
 				- 自然风
 		- ### 商业插画角度
-		  collapsed:: true
 			- 插画、漫画
 			- Concept art 概念艺术
 			  collapsed:: true
