@@ -76,7 +76,6 @@
 				- A 站：artstation
 				- 知名画家：Monet Van GOgh
 		- 描述语控制画面
-		  collapsed:: true
 			- 视角描述
 				- 广角、微距、俯瞰、仰视
 			- 画面清晰程度
@@ -617,4 +616,4 @@
 		- Girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
 - 描述测试二
 	- 用disco diffusion 的描述词格式尝试一下
-		- A ink drawing of study,
+		- A ink drawing of the study, three cards on the desk in the bright study,colored pencil art, by Oriol Angrill Jorda, ambient lighting, epic composition,4k
