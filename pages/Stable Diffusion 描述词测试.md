@@ -1,5 +1,4 @@
 - 关于描述词
-  collapsed:: true
 	- {{embed [[DreamStudio 提示指南]]}}
 	- [关于Stable Diffusion的一点点心得 - 知乎](https://zhuanlan.zhihu.com/p/554262403)
 	  collapsed:: true
@@ -14,7 +13,13 @@
 			- 参考渲染方式：Trending on artstation（全球最专业的CG艺术家社区，又称A站）
 			- 颜色描述：yellow color scheme
 			- 比如：victoria's mansion under sunrise sky,beautiful landscape,comicstyle,by Hilma af Klint.
+	- [描述语该怎么写？超详细讲解，disco diffusion进阶教程之prompts技巧思路_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rW4y1z7oG/)
+		- W：你要画什么，H：你要怎么画
+			- "Abeautiful painting of a singular lighthouseshining its light across a tumultuous sea of blood by greg rutkowski and thomas kinkade,Trending on artstation.""yellow color scheme"
+			- "一幅美丽的画作，描绘了一座奇异的灯塔，它的光线穿过汹涌的血海，格雷格·鲁特考斯基和托马斯·金卡德绘制的趋向于Artstation(A站)。"“黄色配色方案’
+		-
 - 描述词关键词参数
+  collapsed:: true
 	- 参数格式
 		- 风格
 			- 艺术家
@@ -252,6 +257,7 @@
 	- 关键词顺序
 	- 关键词表达方式
 - 艺术家风格参考
+  collapsed:: true
 	- [Disco Diffusion:prompt描述语作者参考·Hilma af Klint](https://zhuanlan.zhihu.com/p/540590813)
 	- [AI绘画 stable diffusion二次元美少女测试](https://www.xiaohongshu.com/discovery/item/62f8966200000000120097e3)
 	  collapsed:: true
