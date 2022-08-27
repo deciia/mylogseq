@@ -15,14 +15,18 @@
 			- 比如：victoria's mansion under sunrise sky,beautiful landscape,comicstyle,by Hilma af Klint.
 	- [描述语该怎么写？超详细讲解，disco diffusion进阶教程之prompts技巧思路_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rW4y1z7oG/)
 		- W：你要画什么，H：你要怎么画
+		  collapsed:: true
 			- "Abeautiful painting of a singular lighthouseshining its light across a tumultuous sea of blood by greg rutkowski and thomas kinkade,Trending on artstation.""yellow color scheme"
 			- "一幅美丽的画作，描绘了一座奇异的灯塔，它的光线穿过汹涌的血海，格雷格·鲁特考斯基和托马斯·金卡德绘制的趋向于Artstation(A站)。"“黄色配色方案’
 			- 描述语没有任何规则，但是成功（精准）的描述宜包含以下内容：
-				- 图片风格，
-					- 哥特风，洛可可，漫画风，像素画，浮世绘，
-				- 图片类型，
-				- 环境细节
+				- 图片风格，可以有一些明显的风格
+					- 哥特风，洛可可，漫画风，像素画，浮世绘，山水画
+				- 图片类型，一般在前面奠定基调
+					- 一张什么类型的图片，照片？油画？抽象画？产品模型？
+				- 环境细节，描述画面里包含的东西
+					- 什么样的环境，有什么，什么样的结构，关系有什么（慎用动词）
 		- 画面类型（前缀）
+		  collapsed:: true
 			- 好用推荐:
 				- A beautiful painting 
 				  一幅美丽的油画(插画)
@@ -38,6 +42,24 @@
 				  一张数码照片
 				- A ukiyo-e print
 				   一张浮世绘
+		- 细化元素
+		  collapsed:: true
+			- 什么场景
+				- 紫禁城、哥特风、未来城市、亭台楼阁、空间站
+			- 有哪些元素
+				- 尽量通俗简洁、大众化表达
+				- 山、河、月、花、阳光
+			- 结构关系
+				- 在什么里面： in
+				- 在什么上面：above
+				- 有什么：there are / with
+			- 什么颜色
+				- 单色：yellow color
+				- 两种颜色：black and white
+				- 颜色：colorful
+			- 艺术家风格：能找到出处的艺术家
+				- A 站：artstation
+				- 知名画家：Monet Van GOgh
 - 描述词关键词参数
   collapsed:: true
 	- 参数格式
