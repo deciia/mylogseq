@@ -45,7 +45,24 @@
 		- 细化元素
 		  collapsed:: true
 			- 什么场景
+			  collapsed:: true
 				- 紫禁城、哥特风、未来城市、亭台楼阁、空间站
+				- Cyberpunk City/赛博朋克城市
+				- Steam City/蒸汽城市
+				- Industrial Cities/工业城市
+				- Country Cottage/乡村小屋
+				- Gothic/哥特
+				- Bell Tower/钟塔
+				- Temple/寺庙
+				- pavilions/亭台楼阁
+				- Space Station/空间站
+				- Port/港口
+				- Majestic Palace/雄伟宫殿
+				- Landscapes/风景
+				- Terraced field on the hill/梯田
+				- rice fields/稻田
+				- waaterlily pond/睡莲池
+				- lotus pond/荷花池
 			- 有哪些元素
 				- 尽量通俗简洁、大众化表达
 				- 山、河、月、花、阳光
@@ -72,6 +89,222 @@
 				- 默认越靠前的词语权重越大
 			- 描述语的权重
 				- 人物，水印，文字
+			- 渲染风格
+			  collapsed:: true
+				- Flickr
+				- ArtStation HD
+				- Behance HD
+				- HDR
+				- Anime
+				- Filmic
+				- Stock photo
+				- Ambient Occlusion
+				- Global illumination
+				- Chalk art
+				- Low poly
+				- Booru
+				- 8k resolution
+				- pencil sketch
+				- 8K 3D
+				- Creative commons attribution
+				- Deviantart
+				- CryEngine
+				- Unreal Engine
+				- concept art
+				- photoillustration
+				- pixiv
+				- Watercolor
+				- CGSociety
+				- child's drawing
+				- marble sculpture
+				- airbrush art
+				- renaissance painting
+				- Velvia
+				- Provia
+				- photo taken with Provia
+				- prerendered graphics
+				- criterion collection
+				- dye-transfer
+				- stipple
+				- Parallax
+				- Bryce 3D
+				- Terragen
+				- (2013) directed by cinematography by
+				- Bokeh
+				- 1990s, 1995
+				- 1970s, 1975
+				- 1920s, 1925
+				- charcoal drawing
+				- Depth of field
+				- DSLR
+				- Detailed painting
+				- Volumetric lighting
+				- Storybook illustration
+				- Unsplash contest winner
+				- vfxfriday
+				- Ultrafirne detail
+				- 20 megapixels
+				- Photo taken with Fugiflm Superia
+				- Photo taken with Ektachrome
+				- matte painting
+				- reimagined by industrial light and magic
+				- Polycount
+				- Acrylic art
+				- Hyperrealism
+				- Zbrush Central
+				- Rendered in cinema4D
+				- Rendered in Maya
+				- Photo taken with Nikon D750
+				- Tilt shift
+				- Mixed media
+				- made of beads and yarn
+				- made of feathers
+				- made of crystals
+				- made of liquid metal
+				- made of glass
+				- made of cardboard
+				- made of vines
+				- made of cheese
+				- made of flowers
+				- made of insects
+				- made of mist
+				- myportfolio
+				- Bokeh
+				- digital illustration
+				- stock photo
+				- aftereffects
+				- speedpainting
+				- colorized
+				- detailed
+				- psychedelic
+				- wavy
+				- groovy
+				- movie poster
+				- pop art
+				- commission for
+				- furaffnity
+				- flat shading
+				- ink drawing
+				- artwork
+				- oil on canvas
+				- macro photography
+				- hall of mirrors
+				- hall of mirrors
+				- polished
+				- sunrays shine upon it
+				- aftereffects
+				- iridescent
+				- film
+				- Datamosh
+				- (1962) directed by cinematography by
+				- Holographic
+				- dutch golden age
+				- digitally enhanced
+				- National Geographic photo
+				- Associated Press photo
+				- Matte background
+				- Art on Instagram
+				- ISO 200
+				- Bob Ross
+				- 32k HUHD
+				- Photocopy
+				- DeviantArt HD
+				- TriX 400 TX
+				- Surrealist
+				- THX Sound
+				- ZBrush
+				- Panorama
+				- Smooth
+				- DC Comics
+				- Marvel Comics
+				- Ukiyo-e
+				- Flemish Baroque
+				- vray tracing
+				- pixel perfect
+				- quantum wavetracing
+				- Zbrush central contest winner
+				- Masterpiece
+				- Fauvism
+				- shot on 70mm
+				- Art Deco
+				- Picasso
+				- Da Vinci
+				- Academic art
+				- 3840x2160
+				- Photocollage
+				- Cubism
+				- American propaganda
+				- Soviet propaganda
+				- PS1 graphics
+				- Fine art
+				- HD mod
+				- Photorealistic
+				- Poster art
+				- Constructivism
+				- pre Raphaelite
+				- Impressionism
+				- Lowbrow
+				- RTX on
+				- Chiaroscuro
+				- Egyptian art
+				- 2D game art
+				- Windows XP
+				- y2k aesthetic
+				- screenshotsaturday
+				- Seapunk
+				- Vaporwave
+				- llya Kuvshinov
+				- Paul Cezanne
+				- Henry Moore
+				- Phallic
+				- Creepy pasta
+				- Geometric
+				- Cluttered
+				- ROCOCO
+				- SSAO
+				- Destructive
+				- by James Gurney
+				- by Thomas Kinkade
+				- by Vincent Di Fate
+				- by Jim Burns
+				- androgynous
+				- masculine
+				- genderless
+				- feminine
+				- extremely gendered, masculine and feminine
+				- 4k result
+				- Matte drawing
+				- Matte photo
+				- Glowing neon
+				- Xbox 360 graphics
+				- Flickering light
+				- Playstation 5 screenshot
+				- Kodak Gold 200
+				- By Edward Hopper
+				- Rough
+				- Maximalist
+				- Minimalist
+				- Kodak Ektar
+				- Kodak portra
+				- made of paperclips
+				- made of rubber
+				- made of plastic
+				- made of wire
+				- made of trash
+				- made of wrought iron
+				- made of all of the above
+				- battoo
+				- woodcut
+				- trending on artststion
+				- featured on artstation
+				- artstartion HQ
+				- trending artstation
+				- ultra HD
+				- high quality photo
+				- instax
+				- ilford hp5
+				- infrared
+				- Lomo
 		- 注意
 		  collapsed:: true
 			- 慎重使用人物相关的词语
@@ -79,8 +312,11 @@
 			- 慎用彩色，可能会导致画面花哨丧失美感
 			- 选择对的艺术家，可能事半功倍，未选对艺术家，可能会出现车祸现场
 			- 描述语不可过长
+		- 更多参考
+		  collapsed:: true
+			- [AI绘画的关键词（群友们的画 ）](https://397987634.notion.site/397987634/AI-764e6a50fbf04327945a12a07ce9654f)
+			- [AI绘画，提示语经验分享 - 哔哩哔哩](https://www.bilibili.com/read/cv15746899)
 - 描述词关键词参数
-  collapsed:: true
 	- 参数格式
 		- 风格
 			- 艺术家
