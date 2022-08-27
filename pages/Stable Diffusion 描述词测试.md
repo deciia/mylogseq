@@ -73,6 +73,7 @@
 			- 描述语的权重
 				- 人物，水印，文字
 		- 注意
+		  collapsed:: true
 			- 慎重使用人物相关的词语
 			- 慎用动词，尽量用状态词或形容词代替
 			- 慎用彩色，可能会导致画面花哨丧失美感
@@ -377,3 +378,5 @@
 		- Smiling girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
 		- ![image.png](../assets/image_1661520350429_0.png)
 		- Girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
+- 描述测试二
+	-
