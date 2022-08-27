@@ -72,15 +72,14 @@
 				- 2.5D 纪念碑谷
 					- 商业项目插画
 					- 2.5D等距视角风格
-			- 内容意象风格
-			  collapsed:: true
-				- 古典主义、新古典主义、浪漫主义、现实主义、印象派、后印象派、立体主义、抽象主义、达达主义、现代派及未来派
-				  野兽派、新艺术、表现主义、表现主义、至上主义、形而上主义、行动画派、波普艺术、极简主义
+			- 流派
+				- 现实主义、印象派、野兽派、新艺术、表现主义、立体主义、未来主义、抽象派、达达主义、至上主义、形而上主义、超现实主义、行动画派、极简艺术、波普艺术。古典主义、新古典主义、浪漫主义、后印象派、现代派及未来派？
 				- 抽象艺术
-					- 超现实主义
-						- 奇幻、科幻
-						- 赛博朋克
-						- 克苏鲁 Cthulhu
+				- 超现实主义
+				  collapsed:: true
+					- 奇幻、科幻
+					- 赛博朋克
+					- 克苏鲁 Cthulhu
 			- 二次元 comic，动画Anime，漫画Manga
 			- 复古
 			- 图形
@@ -104,6 +103,7 @@
 				- 自然风
 			- 书法
 		- ### 商业插画角度
+		  collapsed:: true
 			- 插画、漫画
 			- Concept art 概念艺术
 			  collapsed:: true
@@ -134,6 +134,7 @@
 				- 唱片封面
 				- 书籍封面
 		- ### 绘制手法和国家
+		  collapsed:: true
 			- 绘制手法
 				- 水墨画、油画、版画、水粉画、壁画、漫画、工笔画、写意画、抽象画、青绿山水画、水墨山水画、白描画、指画、界画、内画、素描
 				- 手绘
@@ -143,6 +144,7 @@
 				- 金属蚀刻画
 				- 拼贴画
 				- 纸艺艺术
+				  collapsed:: true
 					- 剪纸
 					- 立体书
 				- 写实摄影、照片
@@ -151,9 +153,11 @@
 				- 中国年画、中国画、国潮
 				- 水墨风
 				- 日韩风
+				  collapsed:: true
 					- 浮世绘
 					- 日式赛璐璐
 				- 欧美
+				  collapsed:: true
 					- 美漫
 					- 欧漫
 		- 风格迁移（艺术家风格迁移到不同画种）
@@ -205,6 +209,14 @@
 	- [【画风分类】14种绘画风格分类。](https://www.douban.com/group/topic/234875985/?author=1&_i=1574938gXsaYzD)
 	  collapsed:: true
 		- ![image.png](../assets/image_1661575356257_0.png)
+		- 轮廓线：勾勒物体形状的线
+		- 固有色：物体原本的颜色（默认是白光下物体呈现的色彩）
+		- 阴影：光照射物体后，没有被光照到的部分所呈现不同程度的黑暗区域
+		- 色光： 带有冷暖色彩倾向的光照射在物体上后，会改变其原本呈现的颜色（例：青苹果被夕阳的橙红光照射会偏向紫色）
+		- 具象塑造：物体的细节，即体现现实物体的详细结构和质感的描绘手法
+		- 抽象肌理：随机纹路，靠绘画材料的特性、笔刷效果等等这种抽象元素制造
+		- [具象塑造]与[抽象肌理]两者都是为了增加画面的信息量（精细度）。它们之间可以分开也可以巧妙结合。
+	- [一分钟看懂15种绘画流派，中国都有代表作品](https://www.sohu.com/a/237494758_100130990)
 - 描述测试一
   collapsed:: true
 	- a beautiful mannequin made of marble printed in 3d geometric neon +kintsugill, facing a giant doorway opening with a neon pink light flowering iridescent pineapples + orchids, transcendent, vibrant color, clean linework, finely detailed, 4k, trending on artstation, photorealistic, volumetric lighting octane render
