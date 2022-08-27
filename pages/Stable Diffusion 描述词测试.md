@@ -1,0 +1,66 @@
+- 关于描述词
+	- {{embed [[DreamStudio 提示指南]]}}
+	- [关于Stable Diffusion的一点点心得 - 知乎](https://zhuanlan.zhihu.com/p/554262403)
+		- 把你所有想要出现在画面里的元素都写出来，包括画面风格：油画的、莫比斯风格的、漫画风格的、金属的、黑白的等等，包括画面情感表达：恐怖的、悲伤的、阳光的等等，总之，都写上去，然后跑一组出来。需要特别注意的是，肖像描写最好加上“portrait of ”，这样有重点的描述，出来的结果也会更注重个体特征的塑造。
+		- 然后根据出来的画面来决定要添加什么元素或者是减少什么元素，几轮下来通常是可以得到自己满意的画面的。
+	- [disco diffusion有哪些画风关键词? - 知乎](https://www.zhihu.com/question/533924893/answer/2571977358)
+		- 提示词由以下几部分组成
+			- 画种描述：A beautiful painting of
+			- 内容描述：a singular lighthouse, shining its light across a tumultuous sea of blood
+			- 画家描述：by greg rutkowski and thomas kinkade
+			- 参考渲染方式：Trending on artstation（全球最专业的CG艺术家社区，又称A站）
+			- 颜色描述：yellow color scheme
+			- 比如：victoria's mansion under sunrise sky,beautiful landscape,comicstyle,by Hilma af Klint.
+- 描述词关键词参数
+	- 内容描述
+	- 画种
+	- 风格
+- 作者风格参考
+	- [Disco Diffusion:prompt描述语作者参考·Hilma af Klint](https://zhuanlan.zhihu.com/p/540590813)
+	- [AI绘画 stable diffusion二次元美少女测试](https://www.xiaohongshu.com/discovery/item/62f8966200000000120097e3)
+	  collapsed:: true
+		- 应大家要求测试一下stable的二次元美少女，全用了日本的画家，包括
+		- 小岛文美Ayami Kojima/山本高远takato yamamoto 用于华丽的浮世绘风格
+		- 副岛成记shigenori soejima/皆叶英夫minaba hideo/小畑健takeshi obata 用于人物造型
+		- 寺田克也katsuya terada 用于表现结构线
+		- 空山基Hajime Sorayama 用于塑造盔甲
+		- 关于二次元风格的要点：
+		  collapsed:: true
+			- 1.二次元有两种风格 :动画Anime/漫画Manga ，动画人物细节较少，动作比较僵硬但表情丰富。漫画细节动态多，背景丰富但没有表情。
+			- 2.关键词权重是按顺序排列的，二次元风格很吃画风，要比其他风格更加注意权重。
+			- 3.1-3号图是按照正常的书写习惯，描述+画家 +效果。结果画家没有权重，画面只体现了非常普通的美少女风格。用的画家是皆叶英夫/小畑健
+			- 4.从四号开始把画家放在首位。粉丝推荐用米山舞，但谷歌查她的英文名只有不到10张作品且AI无法识别，因此我用了她曾经参与过的动漫Fate，放在句式的第一位，变成：详细描述fate的漫画海报 关于一个什么少女，什么衣服等等。画风就秒变专业。
+			- 5.第五张，也是Fate开头，把漫画改成动画，人物立体了，但动态没有那么丰富。
+			- 6.第六张前置了副岛成记，人物就变成他画的那种细长条身材。
+			- 7第七张前置了小岛文美，变成华丽成熟画风。
+			- 8.第八张前置了小岛文美+新艺术风格，变成华丽卡牌造型。
+			- 9.第九张前置了山本高远，变成复古的风格。
+			- 10.寺田克也/空山基 夹杂在中间人物描述里面，能丰富细节。
+			- 11.想要好看的造型最好在末尾加上artgerm和穆夏。这两个人相当于二次元钥匙。
+			- 12.千万不要加的词是pixiv，会变成小学生画风。
+			- 13.AI对日本画家收录很少，所以用整部动漫的名字比画家名字更容易出效果，但要连载时间很长的动漫才可以，例如连载12年的进击的巨人可以识别，而鬼灭之刃只有4年就无法识别。而Fate是一个历时18年包含很多动画，漫画，游戏，小说的综合体，因此风格非常的突出。
+			- 14.手部依然不够准确，动作不够丰富，元素多的图片像素不高。
+- 描述测试一
+	- a beautiful mannequin made of marble printed in 3d geometric neon +kintsugill, facing a giant doorway opening with a neon pink light flowering iridescent pineapples + orchids, transcendent, vibrant color, clean linework, finely detailed, 4k, trending on artstation, photorealistic, volumetric lighting octane render
+	  collapsed:: true
+		- 一个由大理石制成的漂亮人体模型，用 3D 几何霓虹灯 +kintsugill 打印，面对一个巨大的门口开口，上面有霓虹粉色的光开花的彩虹色菠萝 + 兰花，超凡的，鲜艳的色彩，干净的线条，精细的细节，4k，artstation 上的趋势，真实感，体积 灯光辛烷值渲染
+		- ![image.png](../assets/image_1661497368273_0.png)
+		- 随机满意的效果后可以指定seed
+	- 鼻梁上有蝴蝶黑痣的女孩，笑得很甜蜜，美丽的肖像，漫画风格，小岛文美所作
+	  collapsed:: true
+		- The girl with the butterfly mole on the bridge of the nose, smiling sweetly, beautiful portrait, manga style, by Fumami Kojima
+			- ![image.png](../assets/image_1661511515291_0.png)
+	- 鼻梁上有蝴蝶黑痣的女孩，笑得很甜蜜，穿着中国传统服饰，背景有落叶、青松，还有叶子在风里卷着，美丽的肖像，漫画风格，副岛成记和小畑健所作
+	  collapsed:: true
+		- Girl with a butterfly mole on the bridge of her nose, smiling sweetly, in traditional Chinese dress, with fallen leaves, green pines in the background, and leaves curled in the wind, beautiful portrait, comicstyle, by shigenori soejima and takeshi obata, Trending on artstation, artgerm and Mucha
+		- ![image.png](../assets/image_1661513278075_0.png)
+		- Girl with a butterfly mole on the bridge of her nose, smiling sweetly, in traditional Chinese dress, with fallen leaves, green pines in the background, and leaves curled in the wind, beautiful portrait, comicstyle, by takeshi obata and takato yamamoto, Trending on artstation
+	- 女孩在考题的海洋中泛舟荡桨，她像浪花中的海燕，胜利的微笑，美丽的肖像，中国传统服饰，漫画风格，minaba hideo 和Ayami Kojima 所作
+	- 海洋中泛舟的女孩，美丽的肖像，中国服饰，漫画风格，Ayami Kojima 和 takeshi obata 所作
+	- 女孩在舟上，大海中的涡漩，海燕，美丽的肖像，漫画风格，shigenori soejima 所作
+	  collapsed:: true
+		- Girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by shigenori soejima
+		- ![image.png](../assets/image_1661519645602_0.png)
+		- Smiling girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
+		- ![image.png](../assets/image_1661520350429_0.png)
+		- Girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
