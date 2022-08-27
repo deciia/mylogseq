@@ -20,12 +20,20 @@
 			- Pencil drawing / Pen drawing 铅笔画，钢笔画
 			- Concept art 概念艺术
 		- 海报
-		- 场景设计、概念设计
+		- 场景设计、概念设计、建筑设计
 		- 抽象艺术
-		- 风格迁移（艺术家风格迁移到不同画种）
 		- 写实摄影、照片
+		- 肖像画
+		- 风景艺术 Landscape art
+		- 二次元 comic，动画Anime，漫画Manga
+		- 游戏原画
+		- 插画
+		- 中国年画、中国画
+		- 书法
+		- 风格迁移（艺术家风格迁移到不同画种）
 		- 复杂画面
 	- 艺术家
+		- 作品形式，比如Fate
 	- 渲染方式
 	- 颜色
 	- 关键词顺序
@@ -33,14 +41,12 @@
 - 作者风格参考
 	- [Disco Diffusion:prompt描述语作者参考·Hilma af Klint](https://zhuanlan.zhihu.com/p/540590813)
 	- [AI绘画 stable diffusion二次元美少女测试](https://www.xiaohongshu.com/discovery/item/62f8966200000000120097e3)
-	  collapsed:: true
 		- 应大家要求测试一下stable的二次元美少女，全用了日本的画家，包括
 		- 小岛文美Ayami Kojima/山本高远takato yamamoto 用于华丽的浮世绘风格
 		- 副岛成记shigenori soejima/皆叶英夫minaba hideo/小畑健takeshi obata 用于人物造型
 		- 寺田克也katsuya terada 用于表现结构线
 		- 空山基Hajime Sorayama 用于塑造盔甲
 		- 关于二次元风格的要点：
-		  collapsed:: true
 			- 1.二次元有两种风格 :动画Anime/漫画Manga ，动画人物细节较少，动作比较僵硬但表情丰富。漫画细节动态多，背景丰富但没有表情。
 			- 2.关键词权重是按顺序排列的，二次元风格很吃画风，要比其他风格更加注意权重。
 			- 3.1-3号图是按照正常的书写习惯，描述+画家 +效果。结果画家没有权重，画面只体现了非常普通的美少女风格。用的画家是皆叶英夫/小畑健
