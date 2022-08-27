@@ -74,4 +74,5 @@
   高度详细， 超现实主义， 艺术站趋势， 三元配色方案， 平滑， 清晰的焦点， 哑光， 优雅， 有史以来最美丽的图像， 插图， 数字油漆， 黑暗， 阴郁， 辛烷值渲染， 8k， 4k， 水洗的颜色， 锐利， 戏剧性的照明， 美丽， 后期处理， 当天的图片， 环境照明， 史诗般的构图
 - ### 5. Conclusion 结论
 - Prompt engineering allows you to have better control of what the image will look like. It (if done right) improves the image quality by a lot in every aspect. If you enjoyed this “article”, well, I’m glad I didn’t waste my time. If you see any ways that I can improve this, definitely let me know on discord (Graverman#0804)
+  提示工程使您能够更好地控制图像的外观。它（如果做得好）在各个方面都大大提高了图像质量。如果你喜欢这篇“文章”，好吧，我很高兴我没有浪费时间。如果你看到任何我可以改善这一点的方法，一定要让我知道不和谐
 - *From the DreamStudio team: "Thanks Graverman!"*
