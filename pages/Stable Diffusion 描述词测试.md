@@ -616,4 +616,4 @@
 		- Girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
 - 描述测试二
 	- 用disco diffusion 的描述词格式尝试一下
-		- A ink drawing of the study, three cards on the desk in the bright study,colored pencil art, by Oriol Angrill Jorda, ambient lighting, epic composition,4k
+		- A ink drawing of the bright study, 7 cards on the desk, by Zhu Da, ambient lighting, epic composition,4k
