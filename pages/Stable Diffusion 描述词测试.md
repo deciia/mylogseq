@@ -331,7 +331,6 @@
 			- 造形元素
 				- 轮廓线、固有色、阴影、色光、具象塑造、抽象肌理，参考[14种绘画风格分类](https://www.douban.com/group/topic/234875985/?author=1&_i=1574938gXsaYzD)
 			- 线条艺术
-			  collapsed:: true
 				- Pencil drawing / Pen drawing 铅笔画，钢笔画
 					- 艺术家
 						- Albrecht Dürer
@@ -348,11 +347,9 @@
 				- 图形线条
 				- 突异比例
 			- 色彩
-			  collapsed:: true
 				- 平涂
 				- 表现彩插
 			- 质感
-			  collapsed:: true
 				- 噪点
 				- 颗粒质感
 				- 肌理质感
@@ -366,7 +363,6 @@
 						- Rembrandt
 				- 水彩
 			- 维度
-			  collapsed:: true
 				- 3D
 				- 5D艺术和动画
 				  id:: 6309d99b-1dc8-4ac3-830a-03d92f391fc5
@@ -375,9 +371,7 @@
 					- 商业项目插画
 					- 2.5D等距视角风格
 			- 图形
-			  collapsed:: true
 				- 肖像画
-				  collapsed:: true
 					- 艺术家
 						- John Singer Sargent
 						- Edgar Degas
@@ -635,4 +629,4 @@
 - 描述测试二
 	- 用disco diffusion 的描述词格式尝试一下
 		- A ink drawing of the bright study, 7 cards on the desk, by Zhu Da, ambient lighting, epic composition,4k
-	-
+	- Watercolors of Warm Family, Portraits of Women, Watching TV Together, 2.5d, by Michelangelo and John Singer Sargent, Highly detailed, trending on art station, the most beautiful image ever seen, ambient lighting, epic composition, 8k
