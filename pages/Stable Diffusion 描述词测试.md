@@ -21,7 +21,10 @@
 	- 内容描述
 	- 画种、风格
 		- ### 视觉风格
+			- 造形元素
+				- 轮廓线、固有色、阴影、色光、具象塑造、抽象肌理
 			- Realistic  写实
+			  collapsed:: true
 				- 肖像画
 					- 艺术家
 						- John Singer Sargent
@@ -35,6 +38,7 @@
 						- Alfred Bierstadt
 						- Frederic Edwin Church
 			- 质感
+			  collapsed:: true
 				- 噪点
 				- 颗粒质感
 				- 肌理质感
@@ -46,6 +50,7 @@
 						- Rembrandt
 				- 水彩
 			- 线条艺术
+			  collapsed:: true
 				- Pencil drawing / Pen drawing 铅笔画，钢笔画
 					- 艺术家
 						- Albrecht Dürer
@@ -62,11 +67,13 @@
 				- 图形线条
 				- 突异比例
 			- 3D、5D艺术和动画
+			  collapsed:: true
 				- C4D立体插画
 				- 2.5D 纪念碑谷
 					- 商业项目插画
 					- 2.5D等距视角风格
 			- 内容意象风格
+			  collapsed:: true
 				- 古典主义、新古典主义、浪漫主义、现实主义、印象派、后印象派、立体主义、抽象主义、达达主义、现代派及未来派
 				  野兽派、新艺术、表现主义、表现主义、至上主义、形而上主义、行动画派、波普艺术、极简主义
 				- 抽象艺术
@@ -77,6 +84,7 @@
 			- 二次元 comic，动画Anime，漫画Manga
 			- 复古
 			- 图形
+			  collapsed:: true
 				- 细密精致
 				- 扁平化
 					- 扁平描边
@@ -84,10 +92,12 @@
 				- 哥特
 				- 少女
 			- 色彩
+			  collapsed:: true
 				- 平涂
 				- 表现彩插
 			- Q版卡通
 			- 情感氛围
+			  collapsed:: true
 				- 暗黑/奇异/神秘
 				- 诙谐幽默
 					- 玩味夸张人物风格
@@ -96,9 +106,12 @@
 		- ### 商业插画角度
 			- 插画、漫画
 			- Concept art 概念艺术
+			  collapsed:: true
 				- 原画
 					- 游戏原画
 				- 场景设计、建筑设计
+				- 动画概念设计，动画概设
+				- 影视概设
 			- 海报
 			- 时尚插画
 			- 儿童插画
@@ -106,10 +119,13 @@
 			- 医学，科技插画
 			- 形象IP
 			- 编辑插画
+			  collapsed:: true
 				- 书籍插画、文章插画
 			- 互联网插画
+			  collapsed:: true
 				- 矢量图
 			- 广告与包装插画
+			  collapsed:: true
 				- 企业宣传插画
 				- 政治插画
 				- 商品插画
@@ -186,6 +202,9 @@
 			- 12.千万不要加的词是pixiv，会变成小学生画风。
 			- 13.AI对日本画家收录很少，所以用整部动漫的名字比画家名字更容易出效果，但要连载时间很长的动漫才可以，例如连载12年的进击的巨人可以识别，而鬼灭之刃只有4年就无法识别。而Fate是一个历时18年包含很多动画，漫画，游戏，小说的综合体，因此风格非常的突出。
 			- 14.手部依然不够准确，动作不够丰富，元素多的图片像素不高。
+	- [【画风分类】14种绘画风格分类。](https://www.douban.com/group/topic/234875985/?author=1&_i=1574938gXsaYzD)
+	  collapsed:: true
+		- ![image.png](../assets/image_1661575356257_0.png)
 - 描述测试一
   collapsed:: true
 	- a beautiful mannequin made of marble printed in 3d geometric neon +kintsugill, facing a giant doorway opening with a neon pink light flowering iridescent pineapples + orchids, transcendent, vibrant color, clean linework, finely detailed, 4k, trending on artstation, photorealistic, volumetric lighting octane render
