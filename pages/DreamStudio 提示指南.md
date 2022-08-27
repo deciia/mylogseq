@@ -71,6 +71,7 @@
 - This is the part that some people take to extremes, leading to longer prompts than this article. Finishing touches are the final things that you add to your prompt to make it look like you want. For instance, if you want to make your image more artistic, add “trending on artstation”. If you want to add more realistic lighting add “Unreal Engine.” You can add anything you want, but here are some examples:
   这是一些人采取极端措施的部分，导致比本文更长的提示。最后润色是添加到提示中以使其看起来像您想要的那样的最后内容。例如，如果您想使图像更具艺术性，请添加“artstation上的趋势”。如果您想添加更多逼真的光照，请添加“虚幻引擎”。您可以添加任何您想要的内容，但以下是一些示例：
 - Highly detailed, surrealism, trending on art station, triadic color scheme, smooth, sharp focus, matte, elegant, the most beautiful image ever seen, illustration, digital paint, dark, gloomy, octane render, 8k, 4k, washed colors, sharp, dramatic lighting, beautiful, post processing, picture of the day, ambient lighting, epic composition
+  id:: 6308a38f-8ee5-4841-86d6-6742b96524cb
   高度详细， 超现实主义， 艺术站趋势， 三元配色方案， 平滑， 清晰的焦点， 哑光， 优雅， 有史以来最美丽的图像， 插图， 数字油漆， 黑暗， 阴郁， 辛烷值渲染， 8k， 4k， 水洗的颜色， 锐利， 戏剧性的照明， 美丽， 后期处理， 当天的图片， 环境照明， 史诗般的构图
 - ### 5. Conclusion 结论
 - Prompt engineering allows you to have better control of what the image will look like. It (if done right) improves the image quality by a lot in every aspect. If you enjoyed this “article”, well, I’m glad I didn’t waste my time. If you see any ways that I can improve this, definitely let me know on discord (Graverman#0804)

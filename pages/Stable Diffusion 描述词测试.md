@@ -108,12 +108,14 @@
 			- [【插画】NO.3 插画风格 | 史上最全整理 |多图预警 - 知乎](https://zhuanlan.zhihu.com/p/365802870)
 			- [插画 (illustration) 是否也分风格流派？ - 知乎](https://www.zhihu.com/question/23362525/answer/1922755809)
 	- 艺术家
+		-
 		- 作品形式，比如Fate
 		- 游戏概念插画，美国插画师David Le Merrer，游戏《Super Lucky's Tale》
 		- 概念插画，保加利亚插画师Hristo Chukov，动画项目《Mouse Guard》
 		- 广告包装插画，俄罗斯插画师Vera Zvereva
 		- 设计的包装插画，白俄罗斯插画师Anastazi Li，环保涂料品牌Color Care
 	- 渲染方式
+		- {{embed ((6308a38f-8ee5-4841-86d6-6742b96524cb))}}
 		- 图片作品发布平台
 			- 《The New Yorker》封面插画
 		- 渲染平台
@@ -123,7 +125,7 @@
 		- 霓虹
 	- 关键词顺序
 	- 关键词表达方式
-- 作者风格参考
+- 艺术家风格参考
 	- [Disco Diffusion:prompt描述语作者参考·Hilma af Klint](https://zhuanlan.zhihu.com/p/540590813)
 	- [AI绘画 stable diffusion二次元美少女测试](https://www.xiaohongshu.com/discovery/item/62f8966200000000120097e3)
 	  collapsed:: true
