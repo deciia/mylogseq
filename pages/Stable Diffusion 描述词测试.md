@@ -39,6 +39,7 @@
 			- 突异比例
 			- 3D、5D艺术和动画
 				- 2.5D 纪念碑谷
+					- 商业项目插画
 			- 几何图形
 			- 时尚插画
 			- 诙谐幽默
@@ -54,6 +55,7 @@
 			- 医学，科技插画
 			- 暗黑/奇异/神秘
 			- 自然风
+			- 书籍插画、文章插画、编辑插画
 		- 中国年画、中国画
 		- 纸艺艺术
 			- 剪纸
@@ -68,7 +70,12 @@
 		- 复杂画面
 	- 艺术家
 		- 作品形式，比如Fate
+		- 游戏概念插画，美国插画师David Le Merrer，游戏《Super Lucky's Tale》
+		- 概念插画，保加利亚插画师Hristo Chukov，动画项目《Mouse Guard》
+		-
 	- 渲染方式
+		- 图片作品发布平台
+			- 《The New Yorker》封面插画
 		- 渲染平台
 		- 渲染软件
 			- C4D
@@ -79,6 +86,7 @@
 - 作者风格参考
 	- [Disco Diffusion:prompt描述语作者参考·Hilma af Klint](https://zhuanlan.zhihu.com/p/540590813)
 	- [AI绘画 stable diffusion二次元美少女测试](https://www.xiaohongshu.com/discovery/item/62f8966200000000120097e3)
+	  collapsed:: true
 		- 应大家要求测试一下stable的二次元美少女，全用了日本的画家，包括
 		- 小岛文美Ayami Kojima/山本高远takato yamamoto 用于华丽的浮世绘风格
 		- 副岛成记shigenori soejima/皆叶英夫minaba hideo/小畑健takeshi obata 用于人物造型
@@ -100,6 +108,7 @@
 			- 13.AI对日本画家收录很少，所以用整部动漫的名字比画家名字更容易出效果，但要连载时间很长的动漫才可以，例如连载12年的进击的巨人可以识别，而鬼灭之刃只有4年就无法识别。而Fate是一个历时18年包含很多动画，漫画，游戏，小说的综合体，因此风格非常的突出。
 			- 14.手部依然不够准确，动作不够丰富，元素多的图片像素不高。
 - 描述测试一
+  collapsed:: true
 	- a beautiful mannequin made of marble printed in 3d geometric neon +kintsugill, facing a giant doorway opening with a neon pink light flowering iridescent pineapples + orchids, transcendent, vibrant color, clean linework, finely detailed, 4k, trending on artstation, photorealistic, volumetric lighting octane render
 	  collapsed:: true
 		- 一个由大理石制成的漂亮人体模型，用 3D 几何霓虹灯 +kintsugill 打印，面对一个巨大的门口开口，上面有霓虹粉色的光开花的彩虹色菠萝 + 兰花，超凡的，鲜艳的色彩，干净的线条，精细的细节，4k，artstation 上的趋势，真实感，体积 灯光辛烷值渲染
