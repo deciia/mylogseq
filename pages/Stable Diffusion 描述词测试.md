@@ -26,6 +26,7 @@
 				- 环境细节，描述画面里包含的东西
 					- 什么样的环境，有什么，什么样的结构，关系有什么（慎用动词）
 		- 画面类型（前缀）
+		  collapsed:: true
 			- 好用推荐:
 				- A beautiful painting 
 				  一幅美丽的油画(插画)
@@ -617,3 +618,4 @@
 - 描述测试二
 	- 用disco diffusion 的描述词格式尝试一下
 		- A ink drawing of the bright study, 7 cards on the desk, by Zhu Da, ambient lighting, epic composition,4k
+	-
