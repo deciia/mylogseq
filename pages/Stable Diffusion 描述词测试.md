@@ -15,6 +15,7 @@
 	- 内容描述
 	- 画种、风格
 		- ### 视觉风格
+		  collapsed:: true
 			- Realistic  写实
 				- 肖像画
 				- 风景艺术 Landscape art
@@ -45,6 +46,7 @@
 			- 自然风
 			- 书法
 		- ### 商业插画角度
+		  collapsed:: true
 			- 插画
 			- Concept art 概念艺术
 				- 原画
@@ -62,6 +64,7 @@
 				- 矢量图
 			- 广告与包装插画
 		- ### 绘制手法和国家
+		  collapsed:: true
 			- 绘制手法
 				- 数码板绘
 				- 传统纸绘
@@ -78,10 +81,13 @@
 				- 水墨风
 				- 日韩风
 					- 浮世绘
+					- 日式赛璐璐
 				- 欧美
 		- 风格迁移（艺术家风格迁移到不同画种）
 		- 复杂画面
-		- [【插画】NO.3 插画风格 | 史上最全整理 |多图预警 - 知乎](https://zhuanlan.zhihu.com/p/365802870)
+		- 参考资料
+			- [【插画】NO.3 插画风格 | 史上最全整理 |多图预警 - 知乎](https://zhuanlan.zhihu.com/p/365802870)
+			- [插画 (illustration) 是否也分风格流派？ - 知乎](https://www.zhihu.com/question/23362525/answer/1922755809)
 	- 艺术家
 		- 作品形式，比如Fate
 		- 游戏概念插画，美国插画师David Le Merrer，游戏《Super Lucky's Tale》
