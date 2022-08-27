@@ -18,7 +18,9 @@
 			- Realistic  写实
 			- Oil painting 油画
 			- Pencil drawing / Pen drawing 铅笔画，钢笔画
+				- 素描
 			- Concept art 概念艺术
+				- 原画、游戏原画
 		- 海报
 		- 场景设计、概念设计、建筑设计
 		- 抽象艺术
@@ -59,7 +61,6 @@
 		- 日韩风
 			- 浮世绘
 		- 欧美风
-		- 原画
 		- 水彩
 		- 书法
 		- 字体设计
