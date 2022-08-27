@@ -327,32 +327,6 @@
 		- ### 视觉风格
 			- 造形元素
 				- 轮廓线、固有色、阴影、色光、具象塑造、抽象肌理，参考[14种绘画风格分类](https://www.douban.com/group/topic/234875985/?author=1&_i=1574938gXsaYzD)
-			- Realistic  写实
-			  collapsed:: true
-				- 肖像画
-					- 艺术家
-						- John Singer Sargent
-						- Edgar Degas
-						- Paul Cézanne
-						- Jan van Eyck
-				- 风景艺术 Landscape art
-					- 艺术家
-						- Thomas Moran
-						- Claude Monet
-						- Alfred Bierstadt
-						- Frederic Edwin Church
-			- 质感
-				- 噪点
-				- 颗粒质感
-				- 肌理质感
-				- Oil painting 油画
-				  collapsed:: true
-					- 艺术家
-						- Leonardo DaVinci
-						- Vincent Van Gogh
-						- Johannes Vermeer
-						- Rembrandt
-				- 水彩
 			- 线条艺术
 			  collapsed:: true
 				- Pencil drawing / Pen drawing 铅笔画，钢笔画
@@ -370,12 +344,54 @@
 				- 涂鸦风
 				- 图形线条
 				- 突异比例
-			- 3D、5D艺术和动画
+			- 色彩
 			  collapsed:: true
+				- 平涂
+				- 表现彩插
+			- Realistic  写实
+			- 质感
+			  collapsed:: true
+				- 噪点
+				- 颗粒质感
+				- 肌理质感
+				- Oil painting 油画
+				  collapsed:: true
+					- 艺术家
+						- Leonardo DaVinci
+						- Vincent Van Gogh
+						- Johannes Vermeer
+						- Rembrandt
+				- 水彩
+			- 维度
+			  collapsed:: true
+				- 3D
+				- 5D艺术和动画
+				  id:: 6309d99b-1dc8-4ac3-830a-03d92f391fc5
 				- C4D立体插画
 				- 2.5D 纪念碑谷
 					- 商业项目插画
 					- 2.5D等距视角风格
+			- 图形
+				- 肖像画
+				  collapsed:: true
+					- 艺术家
+						- John Singer Sargent
+						- Edgar Degas
+						- Paul Cézanne
+						- Jan van Eyck
+				- 风景艺术 Landscape art
+				  collapsed:: true
+					- 艺术家
+						- Thomas Moran
+						- Claude Monet
+						- Alfred Bierstadt
+						- Frederic Edwin Church
+				- 细密精致
+				- 扁平化
+					- 扁平描边
+				- 极简
+				- 哥特建筑
+				- 少女
 			- 流派
 			  collapsed:: true
 				- 欧美流派
@@ -404,6 +420,7 @@
 						- 抽象派
 						  collapsed:: true
 							- 康定斯基、蒙特里安
+						- 复古
 				- 中国画流派
 					- 花鸟画
 					  collapsed:: true
@@ -451,19 +468,6 @@
 						- 中国抽象派
 							- 赵春翔、吴冠中、应诗流、李磊、韩煜、樱馨、吴震寰等
 			- 二次元 comic，动画Anime，漫画Manga
-			- 复古
-			- 图形
-			  collapsed:: true
-				- 细密精致
-				- 扁平化
-					- 扁平描边
-				- 极简
-				- 哥特
-				- 少女
-			- 色彩
-			  collapsed:: true
-				- 平涂
-				- 表现彩插
 			- Q版卡通
 			- 情感氛围
 			  collapsed:: true
@@ -471,7 +475,6 @@
 				- 诙谐幽默
 					- 玩味夸张人物风格
 				- 自然风
-			- 书法
 		- ### 商业插画角度
 		  collapsed:: true
 			- 插画、漫画
@@ -518,6 +521,7 @@
 					- 立体书
 				- 写实摄影、照片
 				- 字体设计
+				- 书法
 			- 国家
 				- 中国年画、中国画、国潮
 				- 水墨风
