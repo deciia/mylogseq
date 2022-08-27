@@ -1,4 +1,5 @@
 - 关于描述词
+  collapsed:: true
 	- {{embed [[DreamStudio 提示指南]]}}
 	- [关于Stable Diffusion的一点点心得 - 知乎](https://zhuanlan.zhihu.com/p/554262403)
 	  collapsed:: true
