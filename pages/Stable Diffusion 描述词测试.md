@@ -13,8 +13,23 @@
 			- 比如：victoria's mansion under sunrise sky,beautiful landscape,comicstyle,by Hilma af Klint.
 - 描述词关键词参数
 	- 内容描述
-	- 画种
-	- 风格
+	- 画种、风格
+		- 常用样式
+			- Realistic  写实
+			- Oil painting 油画
+			- Pencil drawing / Pen drawing 铅笔画，钢笔画
+			- Concept art 概念艺术
+		- 海报
+		- 场景设计、概念设计
+		- 抽象艺术
+		- 风格迁移（艺术家风格迁移到不同画种）
+		- 写实摄影、照片
+		- 复杂画面
+	- 艺术家
+	- 渲染方式
+	- 颜色
+	- 关键词顺序
+	- 关键词表达方式
 - 作者风格参考
 	- [Disco Diffusion:prompt描述语作者参考·Hilma af Klint](https://zhuanlan.zhihu.com/p/540590813)
 	- [AI绘画 stable diffusion二次元美少女测试](https://www.xiaohongshu.com/discovery/item/62f8966200000000120097e3)
