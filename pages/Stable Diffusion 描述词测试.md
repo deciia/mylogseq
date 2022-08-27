@@ -12,20 +12,46 @@
 			- 颜色描述：yellow color scheme
 			- 比如：victoria's mansion under sunrise sky,beautiful landscape,comicstyle,by Hilma af Klint.
 - 描述词关键词参数
+	- 参数格式
+		- 风格
+			- 艺术家
+				- 内容性质
+					- 渲染方式
+						- 颜色
 	- 内容描述
 	- 画种、风格
 		- ### 视觉风格
 			- Realistic  写实
 				- 肖像画
+					- 艺术家
+						- John Singer Sargent
+						- Edgar Degas
+						- Paul Cézanne
+						- Jan van Eyck
 				- 风景艺术 Landscape art
+					- 艺术家
+						- Thomas Moran
+						- Claude Monet
+						- Alfred Bierstadt
+						- Frederic Edwin Church
 			- 质感
 				- 噪点
 				- 颗粒质感
 				- 肌理质感
 				- Oil painting 油画
+					- 艺术家
+						- Leonardo DaVinci
+						- Vincent Van Gogh
+						- Johannes Vermeer
+						- Rembrandt
 				- 水彩
 			- 线条艺术
 				- Pencil drawing / Pen drawing 铅笔画，钢笔画
+					- 艺术家
+						- Albrecht Dürer
+						- Leonardo da Vinci
+						- Michelangelo
+						- Jean-Auguste-Dominique Ingres
 					- 素描
 				- 描线
 				- 几何图形
@@ -108,7 +134,6 @@
 			- [【插画】NO.3 插画风格 | 史上最全整理 |多图预警 - 知乎](https://zhuanlan.zhihu.com/p/365802870)
 			- [插画 (illustration) 是否也分风格流派？ - 知乎](https://www.zhihu.com/question/23362525/answer/1922755809)
 	- 艺术家
-		-
 		- 作品形式，比如Fate
 		- 游戏概念插画，美国插画师David Le Merrer，游戏《Super Lucky's Tale》
 		- 概念插画，保加利亚插画师Hristo Chukov，动画项目《Mouse Guard》

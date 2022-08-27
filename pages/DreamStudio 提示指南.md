@@ -46,6 +46,7 @@
 - Below are lists of artists in different styles that you can use, but I always encourage you to search for different artists as it is a cool way of discovering new art.
   以下是您可以使用的不同风格的艺术家列表，但我总是鼓励您搜索不同的艺术家，因为这是发现新艺术的一种很酷的方式。
 - #### Portrait 肖像
+  id:: 6308a38f-3385-417c-a966-e7e8d0a92ffb
 	- John Singer Sargent
 	- Edgar Degas
 	- Paul Cézanne
