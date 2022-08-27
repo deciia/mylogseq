@@ -14,6 +14,7 @@
 			- 颜色描述：yellow color scheme
 			- 比如：victoria's mansion under sunrise sky,beautiful landscape,comicstyle,by Hilma af Klint.
 	- [描述语该怎么写？超详细讲解，disco diffusion进阶教程之prompts技巧思路_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rW4y1z7oG/)
+	  collapsed:: true
 		- W：你要画什么，H：你要怎么画
 		  collapsed:: true
 			- "Abeautiful painting of a singular lighthouseshining its light across a tumultuous sea of blood by greg rutkowski and thomas kinkade,Trending on artstation.""yellow color scheme"
@@ -318,6 +319,7 @@
 			- [AI绘画的关键词（群友们的画 ）](https://397987634.notion.site/397987634/AI-764e6a50fbf04327945a12a07ce9654f)
 			- [AI绘画，提示语经验分享 - 哔哩哔哩](https://www.bilibili.com/read/cv15746899)
 - 描述词关键词参数
+  collapsed:: true
 	- 参数格式
 	  collapsed:: true
 		- 风格
@@ -566,10 +568,8 @@
 	- 关键词顺序
 	- 关键词表达方式
 - 艺术家风格参考
-  collapsed:: true
 	- [Disco Diffusion:prompt描述语作者参考·Hilma af Klint](https://zhuanlan.zhihu.com/p/540590813)
 	- [AI绘画 stable diffusion二次元美少女测试](https://www.xiaohongshu.com/discovery/item/62f8966200000000120097e3)
-	  collapsed:: true
 		- 应大家要求测试一下stable的二次元美少女，全用了日本的画家，包括
 		- 小岛文美Ayami Kojima/山本高远takato yamamoto 用于华丽的浮世绘风格
 		- 副岛成记shigenori soejima/皆叶英夫minaba hideo/小畑健takeshi obata 用于人物造型
@@ -627,6 +627,7 @@
 		- ![image.png](../assets/image_1661520350429_0.png)
 		- Girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
 - 描述测试二
+  collapsed:: true
 	- 用disco diffusion 的描述词格式尝试一下
 		- A ink drawing of the bright study, 7 cards on the desk, by Zhu Da, ambient lighting, epic composition,4k
 	- Watercolors of Warm Family, Portraits of Women, Watching TV Together, 2.5d, by Michelangelo and John Singer Sargent, Highly detailed, trending on art station, the most beautiful image ever seen, ambient lighting, epic composition, 8k
