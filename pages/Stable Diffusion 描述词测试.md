@@ -17,7 +17,27 @@
 		- W：你要画什么，H：你要怎么画
 			- "Abeautiful painting of a singular lighthouseshining its light across a tumultuous sea of blood by greg rutkowski and thomas kinkade,Trending on artstation.""yellow color scheme"
 			- "一幅美丽的画作，描绘了一座奇异的灯塔，它的光线穿过汹涌的血海，格雷格·鲁特考斯基和托马斯·金卡德绘制的趋向于Artstation(A站)。"“黄色配色方案’
-		-
+			- 描述语没有任何规则，但是成功（精准）的描述宜包含以下内容：
+				- 图片风格，
+					- 哥特风，洛可可，漫画风，像素画，浮世绘，
+				- 图片类型，
+				- 环境细节
+		- 画面类型（前缀）
+			- 好用推荐:
+				- A beautiful painting 
+				  一幅美丽的油画(插画)
+				- A beautiful detailed watercolor painting 
+				  一张水彩画
+				- A ink drawing 
+				  一幅水墨画
+				- A cinematic hyperrealism highly detailed photograph
+				  一张超现实主义电影感的照片
+				- A ultra-realistic CG rendering
+				  一张CG级的逼真渲染
+				- A digital painting
+				  一张数码照片
+				- A ukiyo-e print
+				   一张浮世绘
 - 描述词关键词参数
   collapsed:: true
 	- 参数格式
