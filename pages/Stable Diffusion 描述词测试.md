@@ -14,6 +14,7 @@
 			- 颜色描述：yellow color scheme
 			- 比如：victoria's mansion under sunrise sky,beautiful landscape,comicstyle,by Hilma af Klint.
 	- [描述语该怎么写？超详细讲解，disco diffusion进阶教程之prompts技巧思路_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rW4y1z7oG/)
+	  collapsed:: true
 		- W：你要画什么，H：你要怎么画
 		  collapsed:: true
 			- "Abeautiful painting of a singular lighthouseshining its light across a tumultuous sea of blood by greg rutkowski and thomas kinkade,Trending on artstation.""yellow color scheme"
@@ -82,7 +83,6 @@
 				- A 站：artstation
 				- 知名画家：Monet Van GOgh
 		- 描述语控制画面
-		  collapsed:: true
 			- 视角描述
 				- 广角、微距、俯瞰、仰视
 			- 画面清晰程度
@@ -329,8 +329,8 @@
 						- 颜色
 	- 内容描述
 	- 画种、风格
-	  collapsed:: true
 		- ### 视觉风格
+		  collapsed:: true
 			- 造形元素
 				- 轮廓线、固有色、阴影、色光、具象塑造、抽象肌理，参考[14种绘画风格分类](https://www.douban.com/group/topic/234875985/?author=1&_i=1574938gXsaYzD)
 			- 线条艺术
@@ -488,6 +488,7 @@
 					- 玩味夸张人物风格
 				- 自然风
 		- ### 商业插画角度
+		  collapsed:: true
 			- 插画、漫画
 			- Concept art 概念艺术
 			  collapsed:: true
@@ -518,6 +519,7 @@
 				- 唱片封面
 				- 书籍封面
 		- ### 绘制手法和国家
+		  collapsed:: true
 			- 绘制手法
 				- 水墨画、油画、版画、水粉画、壁画、漫画、工笔画、写意画、抽象画、青绿山水画、水墨山水画、白描画、指画、界画、内画、素描
 				- 手绘
@@ -559,7 +561,6 @@
 		- 广告包装插画，俄罗斯插画师Vera Zvereva
 		- 设计的包装插画，白俄罗斯插画师Anastazi Li，环保涂料品牌Color Care
 	- 渲染方式
-	  collapsed:: true
 		- {{embed ((6308a38f-8ee5-4841-86d6-6742b96524cb))}}
 		- 图片作品发布平台
 			- 《The New Yorker》封面插画
@@ -636,5 +637,5 @@
 	- 中国国画风格，风景，人物，江中渔船，歌女，琵琶，傅抱石 和 阎立本所作
 		- Chinese traditional painting,  fishing boats in the river, singing girls, pipa, by Fu Baoshi and Yan Liben
 		- chinese water ink style landscape, The Pi-pa Player, fishing boat in the river, singing girl, by Fu Baoshi
-		- Chinese traditional painting, beautiful woman, by Tang Yin and Ayami Kojima
-		- Chinese traditional painting, beautiful woman, by Ayami Kojima and takeshi obata
+		- Chinese traditional painting, beautiful woman, by Tang Yin and Ayami Kojima and takeshi obata
+		- Chinese traditional painting,  beautiful woman, by katsuya terada and takeshi obata, epic composition, Highly detailed
