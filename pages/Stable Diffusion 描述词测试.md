@@ -233,7 +233,6 @@
 			- [Disco Diffusion Modifiers | Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-modifiers/#top)
 			- [Disco Diffusion 70+ Artist Studies | Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-70-plus-artist-studies/)
 	- 艺术家
-	  collapsed:: true
 		- 作品形式，比如Fate
 		- 游戏概念插画，美国插画师David Le Merrer，游戏《Super Lucky's Tale》
 		- 概念插画，保加利亚插画师Hristo Chukov，动画项目《Mouse Guard》
@@ -323,7 +322,6 @@
 			- Chinese traditional painting, little boy sitting at the talking desk and doing homework，glass window,fantasy, intricate, volumetric environment, moon rim light,  illustration, highly detailed, concept art, matte, art by Caspar David Friedrich and Artgerm and Greg Rutkowski and Alphonse mucha, masterpiece, 8k.
 			- ![BillfishZeZifw.PNG](../assets/BillfishZeZifw_1661677618855_0.PNG)
 - 描述测试：山水画
-  collapsed:: true
 	- chinese landscape by 倪传婧
 	- chinese water ink style landscape painting, fishing boat in the river, singing girl
 	- 中国国画风格，风景，人物，江中渔船，歌女，琵琶，傅抱石 和 阎立本所作
