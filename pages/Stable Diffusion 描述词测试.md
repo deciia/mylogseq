@@ -637,4 +637,4 @@
 	- Watercolors of Warm Family, Portraits of Women, Watching TV Together, 2.5d, by Michelangelo and John Singer Sargent, Highly detailed, trending on art station, the most beautiful image ever seen, ambient lighting, epic composition, 8k
 - 描述测试：山水画
 	- chinese landscape by 倪传婧
-	- Water ink style landscape painting, fishing boat in the river, singing girl
+	- chinese water ink style landscape painting, fishing boat in the river, singing girl
