@@ -1,0 +1,439 @@
+- Stable Diffusion
+  collapsed:: true
+	- {{bilibili https://www.bilibili.com/video/BV14d4y1d7zt}}
+	- [DreamStudio](https://beta.dreamstudio.ai/dream)
+	  collapsed:: true
+		- 目前免费，需要注册
+		- 提示无法生成检查会员
+		  collapsed:: true
+			- ~~一天生成可能有次数（或图片数）的限制~~ 200积分，用完了需要充值
+		- [[DreamStudio 提示指南]]
+		- [[Stable Diffusion 描述词]]
+	- [Stable Diffusion - a Hugging Face Space by stabilityai](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+	  collapsed:: true
+		- 不支持中文提示语，生成效果似乎不是很理想，继续尝试中
+		- [如何用 Python 和 Stable Diffusion 人工智能绘图？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tN4y1V7ux?vd_source=4421c23f81ee6b9210f231531377efdb)
+		- 可以同时开多个页面同时，每个页面将生成4个图片
+	- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
+	- [最强之争！对比评测Stable Diffusion & DALLE2，AI绘画内卷开始！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1AT411P7rF)
+	  collapsed:: true
+		- 海报设计
+		- 抽象艺术
+		- 风格迁移
+		- 环境或概念设计
+		- 写实摄影
+		- 复杂画面
+		- 一些尝试案例
+		  collapsed:: true
+			- 奥巴马是杰洛特
+			- 场景设计
+				- 一堆马桶
+			- 君士坦丁堡的陷落，主题乐高玩具
+			- 1950年苏联宣传海报，全面拥抱资本主义
+			- 愤怒的元首，但是二次元
+				- a film still portrait of Hitler (man with small mustache), 2d, cartoon style
+			- 一个小孩在古代日式街道上看着富士山上的巨大蘑菇云
+				- A girl on an ancient Japanese alley overlooking the epic and devastating nuclear explosion of Mount Fuji during the day, drawing on the style of painters such as Defert, Morbach and Ioan Loser
+			- 迎面向你走来的是键盘侠部队方阵
+				- A military parade doing goose steps while holding giant keyboards
+			- 两个警察在时代广场微笑着互相逮捕
+				- A police officer handcuffing another police officer in Time Square , both smiling
+			- 海洋研究中心意外拍摄的深海巨型海马
+				- An extremely scary, massive horse under ocean furiously looking, courtesy of MBARI
+			- 一台熊猫高达
+				- futuristic panda mecha, azure detail, gundam
+			- 风格迁移测试：安东尼·高迪设计的迪士尼乐园
+			  collapsed:: true
+				- Disneyland designed by Antoni Gandi
+				- 安东尼·高迪是建筑设计师
+				- 安东尼·高迪设计的潮鞋
+				  collapsed:: true
+					- sneakers designed by Antoni Gandi
+						- Stable 只是生成普通的鞋
+						  Dalle 效果更好，对语义的理解更准确
+	- [AI作画如此简单(11) stable diffusion的相关资料整理](https://zhuanlan.zhihu.com/p/557083833)
+	- 不存在群的讨论 #聊天记录
+	  collapsed:: true
+		- 谢คิดถึง:
+		  AI越来越离谱了
+		- 追梦人:
+		  要实现真正的人工智能应该让计算机像DNA那样突变、像大脑那样产生灵感，现在的计算机偶发缺失，无法实现通用人工智能，冯诺依曼结构计算机走不通，量子计算机才是希望所在。
+		  量子层面的不确定性让突发与偶发机制有了可能，更大的可能是大脑的创造力本身就由此产生。
+		  量子计算机的错误率居高不下正是实现自主进化的希望所在，DNA和大脑的进化不就是在大量的试错中产生的，经典计算机太过听话了。
+		  只是如何驾驭这些错误，真正实现偶发乃至自主进化，将是量子计算机必经的坎坷，这也会是人工智能必经的坎坷。
+		- 谢คิดถึง:
+		  我觉得这些错误还不错
+		  挺好的
+		  在AI绘画的方面
+		- Chaotica:
+		  怎么说呢，我觉得不能让计算机拥有自主进化和自主创造的能力
+		- 否则就是自取灭亡
+		- 谢คิดถึง:
+		  都行吧
+- open ai dalle2
+  collapsed:: true
+	- [openai.com](https://openai.com/dall-e-2/)
+	- [用 OpenAI 的 DALLE 2 人工智能绘画，是一种什么样的感受？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rF411N7yt)
+- Disco Diffusion
+  collapsed:: true
+	- [只要你写得出，AI就画得了：聊聊 Disco Diffusion_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV17Y411u7iR/)
+		- 评论区讨论
+		  collapsed:: true
+			- 内蒙古的阿萨克Isaac
+				- 从事有创造性的或与人有密切交流的工作，避免被AI替代那些需要熟能生巧的重复性工作。
+				- 免费查询算命 回复
+					- 获得一个好点子是很难的, 所以持续的创造性也很难拥有啊. 感觉要获得一些交叉的技能, 覆盖多个领域的
+			- 杰瑞_Liu
+				- 个人反对ai太过于涉及人类的创造领域
+				- 毕方 回复
+					- 拦不住的，科技发展到现在已经可以视为一种文明生命体了，在资本和人性的驱动下谁也挡不住它对一切工作的赋能和取代。
+					- 杰瑞_Liu 回复  :所以人类终将会失去作为人的价值!
+		- 使用AI作画的原因是不愿意支付高额的版权费？ #思考
+		  collapsed:: true
+			- 使用互联网上的图片有风险，可能会被起诉或索赔
+				- 所以才用AI作画？
+	- [入门教程｜如何使用Disco Diffusion进行AI绘画？ - 简书](https://www.jianshu.com/p/f7d2afe3b67b)
+	- [新增各种风格快捷描述，AI作画Disco Diffusion离线版V3.6来啦！ - 知乎](https://zhuanlan.zhihu.com/p/534596136)
+	- [disco diffusion有哪些画风关键词? - 知乎](https://www.zhihu.com/question/533924893/answer/2571977358)
+	  collapsed:: true
+		- 提示词由以下几部分组成
+			- 画种描述：A beautiful painting of
+			- 内容描述：a singular lighthouse, shining its light across a tumultuous sea of blood
+			- 画家描述：by greg rutkowski and thomas kinkade
+			- 参考渲染方式：Trending on artstation（全球最专业的CG艺术家社区，又称A站）
+			- 颜色描述：yellow color scheme
+			- 比如：victoria's mansion under sunrise sky,beautiful landscape,comicstyle,by Hilma af Klint.
+	- [描述语该怎么写？超详细讲解，disco diffusion进阶教程之prompts技巧思路_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rW4y1z7oG/)
+	  collapsed:: true
+		- W：你要画什么，H：你要怎么画
+		  collapsed:: true
+			- "Abeautiful painting of a singular lighthouseshining its light across a tumultuous sea of blood by greg rutkowski and thomas kinkade,Trending on artstation.""yellow color scheme"
+			- "一幅美丽的画作，描绘了一座奇异的灯塔，它的光线穿过汹涌的血海，格雷格·鲁特考斯基和托马斯·金卡德绘制的趋向于Artstation(A站)。"“黄色配色方案’
+			- 描述语没有任何规则，但是成功（精准）的描述宜包含以下内容：
+				- 图片风格，可以有一些明显的风格
+					- 哥特风，洛可可，漫画风，像素画，浮世绘，山水画
+				- 图片类型，一般在前面奠定基调
+					- 一张什么类型的图片，照片？油画？抽象画？产品模型？
+				- 环境细节，描述画面里包含的东西
+					- 什么样的环境，有什么，什么样的结构，关系有什么（慎用动词）
+		- 画面类型（前缀）
+		  collapsed:: true
+			- 好用推荐:
+				- A beautiful painting 
+				  一幅美丽的油画(插画)
+				- A beautiful detailed watercolor painting 
+				  一张水彩画
+				- A ink drawing 
+				  一幅水墨画
+				- A cinematic hyperrealism highly detailed photograph
+				  一张超现实主义电影感的照片
+				- A ultra-realistic CG rendering
+				  一张CG级的逼真渲染
+				- A digital painting
+				  一张数码照片
+				- A ukiyo-e print
+				   一张浮世绘
+		- 细化元素
+		  collapsed:: true
+			- 什么场景
+			  collapsed:: true
+				- 紫禁城、哥特风、未来城市、亭台楼阁、空间站
+				- Cyberpunk City/赛博朋克城市
+				- Steam City/蒸汽城市
+				- Industrial Cities/工业城市
+				- Country Cottage/乡村小屋
+				- Gothic/哥特
+				- Bell Tower/钟塔
+				- Temple/寺庙
+				- pavilions/亭台楼阁
+				- Space Station/空间站
+				- Port/港口
+				- Majestic Palace/雄伟宫殿
+				- Landscapes/风景
+				- Terraced field on the hill/梯田
+				- rice fields/稻田
+				- waaterlily pond/睡莲池
+				- lotus pond/荷花池
+			- 有哪些元素
+			  collapsed:: true
+				- 尽量通俗简洁、大众化表达
+				- 山、河、月、花、阳光
+			- 结构关系
+			  collapsed:: true
+				- 在什么里面： in
+				- 在什么上面：above
+				- 有什么：there are / with
+			- 什么颜色
+			  collapsed:: true
+				- 单色：yellow color
+				- 两种颜色：black and white
+				- 颜色：colorful
+			- 艺术家风格：能找到出处的艺术家
+			  collapsed:: true
+				- A 站：artstation
+				- 知名画家：Monet Van GOgh
+		- 描述语控制画面
+			- 视角描述
+				- 广角、微距、俯瞰、仰视
+			- 画面清晰程度
+				- 精致细节，4K高清
+			- 画面光影效果
+				- 光照效果，体积照明
+			- 画面结构
+				- 默认越靠前的词语权重越大
+			- 描述语的权重
+				- 人物，水印，文字
+			- 渲染风格
+			  collapsed:: true
+				- Flickr
+				- ArtStation HD
+				- Behance HD
+				- HDR
+				- Anime
+				- Filmic
+				- Stock photo
+				- Ambient Occlusion
+				- Global illumination
+				- Chalk art
+				- Low poly
+				- Booru
+				- 8k resolution
+				- pencil sketch
+				- 8K 3D
+				- Creative commons attribution
+				- Deviantart
+				- CryEngine
+				- Unreal Engine
+				- concept art
+				- photoillustration
+				- pixiv
+				- Watercolor
+				- CGSociety
+				- child's drawing
+				- marble sculpture
+				- airbrush art
+				- renaissance painting
+				- Velvia
+				- Provia
+				- photo taken with Provia
+				- prerendered graphics
+				- criterion collection
+				- dye-transfer
+				- stipple
+				- Parallax
+				- Bryce 3D
+				- Terragen
+				- (2013) directed by cinematography by
+				- Bokeh
+				- 1990s, 1995
+				- 1970s, 1975
+				- 1920s, 1925
+				- charcoal drawing
+				- Depth of field
+				- DSLR
+				- Detailed painting
+				- Volumetric lighting
+				- Storybook illustration
+				- Unsplash contest winner
+				- vfxfriday
+				- Ultrafirne detail
+				- 20 megapixels
+				- Photo taken with Fugiflm Superia
+				- Photo taken with Ektachrome
+				- matte painting
+				- reimagined by industrial light and magic
+				- Polycount
+				- Acrylic art
+				- Hyperrealism
+				- Zbrush Central
+				- Rendered in cinema4D
+				- Rendered in Maya
+				- Photo taken with Nikon D750
+				- Tilt shift
+				- Mixed media
+				- made of beads and yarn
+				- made of feathers
+				- made of crystals
+				- made of liquid metal
+				- made of glass
+				- made of cardboard
+				- made of vines
+				- made of cheese
+				- made of flowers
+				- made of insects
+				- made of mist
+				- myportfolio
+				- Bokeh
+				- digital illustration
+				- stock photo
+				- aftereffects
+				- speedpainting
+				- colorized
+				- detailed
+				- psychedelic
+				- wavy
+				- groovy
+				- movie poster
+				- pop art
+				- commission for
+				- furaffnity
+				- flat shading
+				- ink drawing
+				- artwork
+				- oil on canvas
+				- macro photography
+				- hall of mirrors
+				- hall of mirrors
+				- polished
+				- sunrays shine upon it
+				- aftereffects
+				- iridescent
+				- film
+				- Datamosh
+				- (1962) directed by cinematography by
+				- Holographic
+				- dutch golden age
+				- digitally enhanced
+				- National Geographic photo
+				- Associated Press photo
+				- Matte background
+				- Art on Instagram
+				- ISO 200
+				- Bob Ross
+				- 32k HUHD
+				- Photocopy
+				- DeviantArt HD
+				- TriX 400 TX
+				- Surrealist
+				- THX Sound
+				- ZBrush
+				- Panorama
+				- Smooth
+				- DC Comics
+				- Marvel Comics
+				- Ukiyo-e
+				- Flemish Baroque
+				- vray tracing
+				- pixel perfect
+				- quantum wavetracing
+				- Zbrush central contest winner
+				- Masterpiece
+				- Fauvism
+				- shot on 70mm
+				- Art Deco
+				- Picasso
+				- Da Vinci
+				- Academic art
+				- 3840x2160
+				- Photocollage
+				- Cubism
+				- American propaganda
+				- Soviet propaganda
+				- PS1 graphics
+				- Fine art
+				- HD mod
+				- Photorealistic
+				- Poster art
+				- Constructivism
+				- pre Raphaelite
+				- Impressionism
+				- Lowbrow
+				- RTX on
+				- Chiaroscuro
+				- Egyptian art
+				- 2D game art
+				- Windows XP
+				- y2k aesthetic
+				- screenshotsaturday
+				- Seapunk
+				- Vaporwave
+				- llya Kuvshinov
+				- Paul Cezanne
+				- Henry Moore
+				- Phallic
+				- Creepy pasta
+				- Geometric
+				- Cluttered
+				- ROCOCO
+				- SSAO
+				- Destructive
+				- by James Gurney
+				- by Thomas Kinkade
+				- by Vincent Di Fate
+				- by Jim Burns
+				- androgynous
+				- masculine
+				- genderless
+				- feminine
+				- extremely gendered, masculine and feminine
+				- 4k result
+				- Matte drawing
+				- Matte photo
+				- Glowing neon
+				- Xbox 360 graphics
+				- Flickering light
+				- Playstation 5 screenshot
+				- Kodak Gold 200
+				- By Edward Hopper
+				- Rough
+				- Maximalist
+				- Minimalist
+				- Kodak Ektar
+				- Kodak portra
+				- made of paperclips
+				- made of rubber
+				- made of plastic
+				- made of wire
+				- made of trash
+				- made of wrought iron
+				- made of all of the above
+				- battoo
+				- woodcut
+				- trending on artststion
+				- featured on artstation
+				- artstartion HQ
+				- trending artstation
+				- ultra HD
+				- high quality photo
+				- instax
+				- ilford hp5
+				- infrared
+				- Lomo
+		- 注意
+		  collapsed:: true
+			- 慎重使用人物相关的词语
+			- 慎用动词，尽量用状态词或形容词代替
+			- 慎用彩色，可能会导致画面花哨丧失美感
+			- 选择对的艺术家，可能事半功倍，未选对艺术家，可能会出现车祸现场
+			- 描述语不可过长
+		- 更多参考
+			- [AI绘画的关键词（群友们的画 ）](https://397987634.notion.site/397987634/AI-764e6a50fbf04327945a12a07ce9654f)
+			- [AI绘画，提示语经验分享 - 哔哩哔哩](https://www.bilibili.com/read/cv15746899)
+- [Midjourney](https://www.midjourney.com/home/)
+  collapsed:: true
+	- [AI绘画工具Midjourney创始人：人工智能像水](https://baijiahao.baidu.com/s?id=1740732683141319266&wfr=spider&for=pc)
+	- [midjourney超详细使用教程（上）| 1分钟学会用人工智能画图 | 如何获取midjourney邀请码_哔哩哔哩_bilibili](https://www.bilibili.com/video/av897997732?vd_source=4421c23f81ee6b9210f231531377efdb)
+	  collapsed:: true
+		- 00:00 midjourney是什么？
+		  01:04 midjourney可以用来做什么？它的优缺点
+		  02:50 midjourney的使用流程，以及如何获取邀请码
+		- 官网：https://www.midjourney.com/app/
+		  官方文档：https://midjourney.gitbook.io/docs/
+		  评测文章：https://zhuanlan.zhihu.com/p/525067969
+		- 是什么
+		  collapsed:: true
+			- midjourney 介于 Disco diffusion （梦幻抽象）和 dalle2（十分具象） 之间
+		- 使用流程
+		  collapsed:: true
+			- 科学上网
+			- 注册一个discord
+			- 搞到一个邀请码
+			  collapsed:: true
+				- 官网申请
+				- 找已经加入并付费的用户要
+				- 加入一些AI绘画的社群
+		- 缺点
+		  collapsed:: true
+			- 可调整的参数少
+			- 没有动画功能
+			- 图像提示功能难用
