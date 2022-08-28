@@ -1,5 +1,6 @@
 - 描述测试一
   id:: bee07164-c380-446a-8504-656252aa63d0
+  collapsed:: true
 	- a beautiful mannequin made of marble printed in 3d geometric neon +kintsugill, facing a giant doorway opening with a neon pink light flowering iridescent pineapples + orchids, transcendent, vibrant color, clean linework, finely detailed, 4k, trending on artstation, photorealistic, volumetric lighting octane render
 	  collapsed:: true
 		- 一个由大理石制成的漂亮人体模型，用 3D 几何霓虹灯 +kintsugill 打印，面对一个巨大的门口开口，上面有霓虹粉色的光开花的彩虹色菠萝 + 兰花，超凡的，鲜艳的色彩，干净的线条，精细的细节，4k，artstation 上的趋势，真实感，体积 灯光辛烷值渲染
@@ -25,6 +26,7 @@
 		- Girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
 - 描述测试二
   id:: 630b0451-e6c2-413c-a52b-4aa12eb17707
+  collapsed:: true
 	- a magical witch, radiating rebirth energy, art by caspar david friedrich, power auras, sigils, tattered cloth robes, substance 3d painter, pbr textures, physical based rendering, cinematic, hyper realism, high detail, octane render, unreal engine, 8k, vibrant colors, smooth gradients .
 	- Asia girl, glossy eyes, face, long hair, fantasy, elegant, highly detailed, digital painting, artstation, concept art, smooth, illustration, renaissance, flowy, melting, round moons, rich clouds, very detailed, volumetric light, mist, fine art, textured oil over canvas, epic fantasy art, very colorful, ornate intricate scales, fractal gems, 8 k, hyper realistic, high contrast
 		- 亚洲女孩，有光泽的眼睛，脸，长发，幻想，优雅，高度详细，数字绘画，艺术站，概念艺术，平滑，插图，文艺复兴，流动，融化，圆月，丰富的云，非常详细，体积光，雾，美术，画布上的纹理油，史诗般的幻想艺术，非常丰富，华丽和复杂的比例，分形宝石，8 k，超现实，高对比度
@@ -43,5 +45,6 @@
 		- chinese water ink style landscape, The Pi-pa Player, fishing boat in the river, singing girl, by Fu Baoshi
 		- Chinese traditional painting, beautiful woman, by Tang Yin and Ayami Kojima and takeshi obata
 		- Chinese traditional painting,  beautiful woman, by katsuya terada and takeshi obata, epic composition, Highly detailed
-		-
-		-
+	- 中国画，山水画，云、雾及春，art by 刘国松
+		- Chinese painting, landscape painting, cloud, fog and spring, art by Liu Guosong
+-
