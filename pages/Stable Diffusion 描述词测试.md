@@ -632,6 +632,7 @@
 		- ![image.png](../assets/image_1661520350429_0.png)
 		- Girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
 - 描述测试：山水画
+  collapsed:: true
 	- chinese landscape by 倪传婧
 	- chinese water ink style landscape painting, fishing boat in the river, singing girl
 	- 中国国画风格，风景，人物，江中渔船，歌女，琵琶，傅抱石 和 阎立本所作
