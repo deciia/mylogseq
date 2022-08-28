@@ -637,3 +637,4 @@
 		- Chinese traditional painting,  fishing boats in the river, singing girls, pipa, by Fu Baoshi and Yan Liben
 		- chinese water ink style landscape, The Pi-pa Player, fishing boat in the river, singing girl, by Fu Baoshi
 		- Chinese traditional painting, beautiful woman, by Tang Yin and Ayami Kojima
+		- Chinese traditional painting, beautiful woman, by Ayami Kojima and takeshi obata
