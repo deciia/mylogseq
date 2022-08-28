@@ -630,14 +630,10 @@
 		- Smiling girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
 		- ![image.png](../assets/image_1661520350429_0.png)
 		- Girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
-- 描述测试二
-  collapsed:: true
-	- 用disco diffusion 的描述词格式尝试一下
-		- A ink drawing of the bright study, 7 cards on the desk, by Zhu Da, ambient lighting, epic composition,4k
-	- Watercolors of Warm Family, Portraits of Women, Watching TV Together, 2.5d, by Michelangelo and John Singer Sargent, Highly detailed, trending on art station, the most beautiful image ever seen, ambient lighting, epic composition, 8k
 - 描述测试：山水画
 	- chinese landscape by 倪传婧
 	- chinese water ink style landscape painting, fishing boat in the river, singing girl
 	- 中国国画风格，风景，人物，江中渔船，歌女，琵琶，傅抱石 和 阎立本所作
 		- Chinese traditional painting,  fishing boats in the river, singing girls, pipa, by Fu Baoshi and Yan Liben
 		- chinese water ink style landscape, The Pi-pa Player, fishing boat in the river, singing girl, by Fu Baoshi
+		- Chinese traditional painting, beautiful woman, by Tang Yin and Ayami Kojima
