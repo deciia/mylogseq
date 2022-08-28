@@ -635,3 +635,6 @@
 	- 用disco diffusion 的描述词格式尝试一下
 		- A ink drawing of the bright study, 7 cards on the desk, by Zhu Da, ambient lighting, epic composition,4k
 	- Watercolors of Warm Family, Portraits of Women, Watching TV Together, 2.5d, by Michelangelo and John Singer Sargent, Highly detailed, trending on art station, the most beautiful image ever seen, ambient lighting, epic composition, 8k
+- 描述测试：山水画
+	- chinese landscape by 倪传婧
+	- Water ink style landscape painting, fishing boat in the river, singing girl
