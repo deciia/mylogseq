@@ -324,6 +324,8 @@
 	- little boy sitting at the talking desk and doing homework，glass window,fantasy, intricate, volumetric environment, moon rim light, illustration, highly detailed, digital painting, concept art, matte, art by Caspar David Friedrich and Artgerm and Greg Rutkowski and Alphonse mucha, masterpiece, 8k.
 		- 小男孩坐在会说话的书桌旁做作业，玻璃窗，幻想，复杂的体积环境，月边灯，插图，高度细节，数字绘画，概念艺术，哑光，卡斯帕·戴维·弗里德里希和阿特杰姆和格雷格·鲁特科夫斯基和阿尔方斯·穆查的艺术，杰作，8k。
 		- ![image.png](../assets/image_1661675301203_0.png)
+		- 加上中国画关键词，去掉数字画
+			- Chinese traditional painting, little boy sitting at the talking desk and doing homework，glass window,fantasy, intricate, volumetric environment, moon rim light,  illustration, highly detailed, concept art, matte, art by Caspar David Friedrich and Artgerm and Greg Rutkowski and Alphonse mucha, masterpiece, 8k.
 - 描述测试：山水画
 	- chinese landscape by 倪传婧
 	- chinese water ink style landscape painting, fishing boat in the river, singing girl
