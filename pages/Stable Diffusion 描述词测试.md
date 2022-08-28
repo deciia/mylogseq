@@ -5,12 +5,6 @@
 		- 把你所有想要出现在画面里的元素都写出来，包括画面风格：油画的、莫比斯风格的、漫画风格的、金属的、黑白的等等，包括画面情感表达：恐怖的、悲伤的、阳光的等等，总之，都写上去，然后跑一组出来。需要特别注意的是，肖像描写最好加上“portrait of ”，这样有重点的描述，出来的结果也会更注重个体特征的塑造。
 		- 然后根据出来的画面来决定要添加什么元素或者是减少什么元素，几轮下来通常是可以得到自己满意的画面的。
 - 描述词关键词参数
-	- 参数格式
-		- 风格
-			- 艺术家
-				- 内容性质
-					- 渲染方式
-						- 颜色
 	- 内容描述
 	- 画种、风格
 		- 视觉风格
@@ -326,6 +320,7 @@
 		- ![image.png](../assets/image_1661675301203_0.png)
 		- 加上中国画关键词，去掉数字画
 			- Chinese traditional painting, little boy sitting at the talking desk and doing homework，glass window,fantasy, intricate, volumetric environment, moon rim light,  illustration, highly detailed, concept art, matte, art by Caspar David Friedrich and Artgerm and Greg Rutkowski and Alphonse mucha, masterpiece, 8k.
+			- ![BillfishZeZifw.PNG](../assets/BillfishZeZifw_1661677618855_0.PNG)
 - 描述测试：山水画
 	- chinese landscape by 倪传婧
 	- chinese water ink style landscape painting, fishing boat in the river, singing girl
@@ -334,5 +329,4 @@
 		- chinese water ink style landscape, The Pi-pa Player, fishing boat in the river, singing girl, by Fu Baoshi
 		- Chinese traditional painting, beautiful woman, by Tang Yin and Ayami Kojima and takeshi obata
 		- Chinese traditional painting,  beautiful woman, by katsuya terada and takeshi obata, epic composition, Highly detailed
-	-
 -
