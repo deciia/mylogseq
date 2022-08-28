@@ -639,5 +639,5 @@
 	- chinese landscape by 倪传婧
 	- chinese water ink style landscape painting, fishing boat in the river, singing girl
 	- 中国国画风格，风景，人物，江中渔船，歌女，琵琶，傅抱石 和 阎立本所作
-		- Chinese traditional painting style, scenery, figures, fishing boats in the river, singing girls, pipa, by Fu Baoshi and Yan Liben
-	- chinese water ink style landscape, The Pi-pa Player, fishing boat in the river, singing girl, by Fu Baoshi
+		- Chinese traditional painting,  fishing boats in the river, singing girls, pipa, by Fu Baoshi and Yan Liben
+		- chinese water ink style landscape, The Pi-pa Player, fishing boat in the river, singing girl, by Fu Baoshi
