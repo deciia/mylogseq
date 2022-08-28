@@ -312,6 +312,7 @@
 		- ![image.png](../assets/image_1661520350429_0.png)
 		- Girl on a boat, whirlpool in the sea, petrel, beautiful portrait, manga style, by minaba hideo, Trending on artstation, artgerm and Mucha
 - 描述测试二
+  collapsed:: true
 	- a magical witch, radiating rebirth energy, art by caspar david friedrich, power auras, sigils, tattered cloth robes, substance 3d painter, pbr textures, physical based rendering, cinematic, hyper realism, high detail, octane render, unreal engine, 8k, vibrant colors, smooth gradients .
 	- Asia girl, glossy eyes, face, long hair, fantasy, elegant, highly detailed, digital painting, artstation, concept art, smooth, illustration, renaissance, flowy, melting, round moons, rich clouds, very detailed, volumetric light, mist, fine art, textured oil over canvas, epic fantasy art, very colorful, ornate intricate scales, fractal gems, 8 k, hyper realistic, high contrast
 		- 亚洲女孩，有光泽的眼睛，脸，长发，幻想，优雅，高度详细，数字绘画，艺术站，概念艺术，平滑，插图，文艺复兴，流动，融化，圆月，丰富的云，非常详细，体积光，雾，美术，画布上的纹理油，史诗般的幻想艺术，非常丰富，华丽和复杂的比例，分形宝石，8 k，超现实，高对比度
@@ -322,6 +323,7 @@
 			- Chinese traditional painting, little boy sitting at the talking desk and doing homework，glass window,fantasy, intricate, volumetric environment, moon rim light,  illustration, highly detailed, concept art, matte, art by Caspar David Friedrich and Artgerm and Greg Rutkowski and Alphonse mucha, masterpiece, 8k.
 			- ![BillfishZeZifw.PNG](../assets/BillfishZeZifw_1661677618855_0.PNG)
 - 描述测试：山水画
+  collapsed:: true
 	- chinese landscape by 倪传婧
 	- chinese water ink style landscape painting, fishing boat in the river, singing girl
 	- 中国国画风格，风景，人物，江中渔船，歌女，琵琶，傅抱石 和 阎立本所作
