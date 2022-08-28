@@ -14,7 +14,6 @@
 			- 颜色描述：yellow color scheme
 			- 比如：victoria's mansion under sunrise sky,beautiful landscape,comicstyle,by Hilma af Klint.
 	- [描述语该怎么写？超详细讲解，disco diffusion进阶教程之prompts技巧思路_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rW4y1z7oG/)
-	  collapsed:: true
 		- W：你要画什么，H：你要怎么画
 		  collapsed:: true
 			- "Abeautiful painting of a singular lighthouseshining its light across a tumultuous sea of blood by greg rutkowski and thomas kinkade,Trending on artstation.""yellow color scheme"
@@ -27,6 +26,7 @@
 				- 环境细节，描述画面里包含的东西
 					- 什么样的环境，有什么，什么样的结构，关系有什么（慎用动词）
 		- 画面类型（前缀）
+		  collapsed:: true
 			- 好用推荐:
 				- A beautiful painting 
 				  一幅美丽的油画(插画)
@@ -43,6 +43,7 @@
 				- A ukiyo-e print
 				   一张浮世绘
 		- 细化元素
+		  collapsed:: true
 			- 什么场景
 			  collapsed:: true
 				- 紫禁城、哥特风、未来城市、亭台楼阁、空间站
@@ -81,6 +82,7 @@
 				- A 站：artstation
 				- 知名画家：Monet Van GOgh
 		- 描述语控制画面
+		  collapsed:: true
 			- 视角描述
 				- 广角、微距、俯瞰、仰视
 			- 画面清晰程度
@@ -319,7 +321,6 @@
 			- [AI绘画的关键词（群友们的画 ）](https://397987634.notion.site/397987634/AI-764e6a50fbf04327945a12a07ce9654f)
 			- [AI绘画，提示语经验分享 - 哔哩哔哩](https://www.bilibili.com/read/cv15746899)
 - 描述词关键词参数
-  collapsed:: true
 	- 参数格式
 	  collapsed:: true
 		- 风格
@@ -329,6 +330,7 @@
 						- 颜色
 	- 内容描述
 	- 画种、风格
+	  collapsed:: true
 		- ### 视觉风格
 			- 造形元素
 				- 轮廓线、固有色、阴影、色光、具象塑造、抽象肌理，参考[14种绘画风格分类](https://www.douban.com/group/topic/234875985/?author=1&_i=1574938gXsaYzD)
@@ -551,12 +553,14 @@
 			- [Disco Diffusion Modifiers | Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-modifiers/#top)
 			- [Disco Diffusion 70+ Artist Studies | Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-70-plus-artist-studies/)
 	- 艺术家
+	  collapsed:: true
 		- 作品形式，比如Fate
 		- 游戏概念插画，美国插画师David Le Merrer，游戏《Super Lucky's Tale》
 		- 概念插画，保加利亚插画师Hristo Chukov，动画项目《Mouse Guard》
 		- 广告包装插画，俄罗斯插画师Vera Zvereva
 		- 设计的包装插画，白俄罗斯插画师Anastazi Li，环保涂料品牌Color Care
 	- 渲染方式
+	  collapsed:: true
 		- {{embed ((6308a38f-8ee5-4841-86d6-6742b96524cb))}}
 		- 图片作品发布平台
 			- 《The New Yorker》封面插画
@@ -570,6 +574,7 @@
 - 艺术家风格参考
 	- [Disco Diffusion:prompt描述语作者参考·Hilma af Klint](https://zhuanlan.zhihu.com/p/540590813)
 	- [AI绘画 stable diffusion二次元美少女测试](https://www.xiaohongshu.com/discovery/item/62f8966200000000120097e3)
+	  collapsed:: true
 		- 应大家要求测试一下stable的二次元美少女，全用了日本的画家，包括
 		- 小岛文美Ayami Kojima/山本高远takato yamamoto 用于华丽的浮世绘风格
 		- 副岛成记shigenori soejima/皆叶英夫minaba hideo/小畑健takeshi obata 用于人物造型

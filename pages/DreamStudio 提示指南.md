@@ -18,7 +18,6 @@
 	- As you can see, these images have random scenery and don’t look very aesthetically pleasing, I definitely wouldn’t consider them art. This brings me to my next point;
 	  正如你所看到的，这些图像有随机的风景，看起来不是很美观，我绝对不会认为它们是艺术。下面我要谈一谈我的下一点。
 - ### 2. Style 风格
-  collapsed:: true
 	- Style is a crucial part of the prompt. The AI, when missing a specified style, usually chooses the one it has seen the most in related images, for example, if I generated landscape, it would probably generate realistic or oil painting looking images. Having a well chosen style + raw prompt is sometimes enough, as the style influences the image the most right after the raw prompt.
 	  风格是提示的关键部分。当缺少指定样式时，AI通常会选择它在相关图像中看到最多的样式，例如，如果我生成风景，它可能会生成逼真或油画的图像。有时，选择良好的样式 + 原始提示就足够了，因为样式在原始提示之后对图像的影响最大。
 	- The most commonly used styles include:
