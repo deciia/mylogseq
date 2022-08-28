@@ -7,6 +7,7 @@
 - 描述词关键词参数
 	- 内容描述
 	- 画种、风格
+	  collapsed:: true
 		- 视觉风格
 		  collapsed:: true
 			- 造形元素
@@ -233,6 +234,7 @@
 			- [Disco Diffusion Modifiers | Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-modifiers/#top)
 			- [Disco Diffusion 70+ Artist Studies | Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-70-plus-artist-studies/)
 	- 艺术家
+	  collapsed:: true
 		- 作品形式，比如Fate
 		- 游戏概念插画，美国插画师David Le Merrer，游戏《Super Lucky's Tale》
 		- 概念插画，保加利亚插画师Hristo Chukov，动画项目《Mouse Guard》
@@ -247,6 +249,7 @@
 		- 渲染软件
 			- C4D
 	- 颜色
+	  collapsed:: true
 		- 霓虹
 	- 关键词顺序
 	- 关键词表达方式
@@ -285,6 +288,8 @@
 		- 抽象肌理：随机纹路，靠绘画材料的特性、笔刷效果等等这种抽象元素制造
 		- [具象塑造]与[抽象肌理]两者都是为了增加画面的信息量（精细度）。它们之间可以分开也可以巧妙结合。
 	- [一分钟看懂15种绘画流派，中国都有代表作品](https://www.sohu.com/a/237494758_100130990)
+	- [[中国画风格参考]]
+-
 - 描述测试一
   collapsed:: true
 	- a beautiful mannequin made of marble printed in 3d geometric neon +kintsugill, facing a giant doorway opening with a neon pink light flowering iridescent pineapples + orchids, transcendent, vibrant color, clean linework, finely detailed, 4k, trending on artstation, photorealistic, volumetric lighting octane render
@@ -322,6 +327,7 @@
 			- Chinese traditional painting, little boy sitting at the talking desk and doing homework，glass window,fantasy, intricate, volumetric environment, moon rim light,  illustration, highly detailed, concept art, matte, art by Caspar David Friedrich and Artgerm and Greg Rutkowski and Alphonse mucha, masterpiece, 8k.
 			- ![BillfishZeZifw.PNG](../assets/BillfishZeZifw_1661677618855_0.PNG)
 - 描述测试：山水画
+  collapsed:: true
 	- chinese landscape by 倪传婧
 	- chinese water ink style landscape painting, fishing boat in the river, singing girl
 	- 中国国画风格，风景，人物，江中渔船，歌女，琵琶，傅抱石 和 阎立本所作
