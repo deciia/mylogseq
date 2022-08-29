@@ -1,11 +1,10 @@
 - 自 [[2022年08月29日]] 起，异恒deciia（以下简称异恒）自愿参加 [[共进创作宣言]]。
 - 异恒的以下受影响帐号中的内容作品，将遵循分配规则LV1（即商品最大可交易价值原则）
-	- Notion平台上建立的个人网站 [东土记事](https://easternote.com/)
-	- Wikidot 平台上建立的个人网站 [东土记事](http://easternote.wikidot.com/)
+	- Notion 站 [东土记事](https://easternote.com/)，Wikidot 站 [东土记事](http://easternote.wikidot.com/)
 	- 托管在github和vercel 上的 知识图谱站 [庭燎馆](https://tingliao.easternote.com/)
 	- 爱发电 [Deciia正在创作幻想作品设定、小说及游戏](https://afdian.net/@deciia) 中单独售卖的内容商品
 	- 微信订阅号“东土记事”（eln-cn）
-	- [Deciia - 知乎](https://www.zhihu.com/people/wang-deciia/posts) 帐号
+	- [Deciia - 知乎](https://www.zhihu.com/people/wang-deciia/posts)
 	- [水的腮衣啊deciia的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/15408522/)
 	- [@异恒 的个人主页 - 微博](https://weibo.com/decii)
 	- [Deciia的头条主页 - 今日头条(www.toutiao.com)](https://www.toutiao.com/c/user/token/MS4wLjABAAAAoFNpLWn-0HlLFnWUoU31OA-_XgKGxV1RY524SRHva-m6w2VnaGxvVqFMLZOKLNAp/?source=mine_home&log_from=c5b215850b802_1653053092347)
@@ -13,9 +12,10 @@
 - ## 具体如下
 	- 去银行办理一个可支配公共资产帐户（以下简称公共帐户），帐号为___________________
 		- 该帐户主要用于赞助其它参与了共进创作宣言的创作者
-		- 该帐户的收支信息将在 [庭燎馆](https://tingliao.easternote.com/)中公开
+		- 该帐户的收支信息将在 [庭燎馆](https://tingliao.easternote.com/)中公示
 	- 受影响帐号的所有单篇原创内容将存在交易价值上限，即包括但不限于读者对内容的打赏、出版后的版权收益在内的该单篇收益累计存在上限，超出上限的收益将汇入本人的公共帐户
 		- 交易上限计算公式
 			- 时长 * 时薪 + 资源消耗
 			- 以 [共进创作宣言](https://mp.weixin.qq.com/s?__biz=MjM5MDEzNDAyOQ==&mid=2447514570&idx=1&sn=15a93ac249f9efff036547b0c7986df4) 为例，包括多日思考以及最终完成打个折计4小时，时薪算25，资源消耗忽略不计，共计100元
 	- 异恒承诺单篇内容获得的收益超出交易价值上限后，异恒失去该篇内容的版权，版权共享给所有人类，仅拥有这篇内容的署名权，将该内容将允许自由传播、改编、二创等等。
+		- 内容版权信息更新（如异恒失去版本）将在 [庭燎馆](https://tingliao.easternote.com/)中公示
