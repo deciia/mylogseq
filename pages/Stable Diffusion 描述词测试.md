@@ -40,7 +40,8 @@
 			- Big boy  sleeping in the bed
 		- 男孩站在天桥上，夜光透过树的缝隙
 			- The big boy stood on the overpass, the night moonlight through the cracks in the trees
-		-
+		- 大男孩躺在天桥上，天桥上有一只青蛙，月光透过树的缝隙，很多纸片和海鸥飞在海浪上面，月亮女神在天上装扮梳洗，星星在云的后面
+			- The big boy was lying on the overpass. There was a frog on the overpass. The moonlight passed through the gaps in the trees. Many pieces of paper and gulls flew on the waves. The moon goddess dressed up and washed in the sky. The stars were behind the clouds
 - 描述测试：山水画
   id:: 630ac5d3-be92-4b52-b6c5-13642ef2a2d6
   collapsed:: true
