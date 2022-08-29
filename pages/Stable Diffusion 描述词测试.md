@@ -36,8 +36,10 @@
 		  collapsed:: true
 			- Chinese traditional painting, little boy sitting at the talking desk and doing homework，glass window,fantasy, intricate, volumetric environment, moon rim light,  illustration, highly detailed, concept art, matte, art by Caspar David Friedrich and Artgerm and Greg Rutkowski and Alphonse mucha, masterpiece, 8k.
 			- ![BillfishZeZifw.PNG](../assets/BillfishZeZifw_1661677618855_0.PNG)
-		- 小男孩换成女孩
-			- Girl sitting at the talking desk and doing homework，glass window,fantasy, intricate, volumetric environment, moon rim light, illustration, highly detailed, digital painting, concept art, matte, art by Caspar David Friedrich and Artgerm and Greg Rutkowski and Alphonse mucha, masterpiece, 8k.
+		- 大男孩睡在床上
+			- Big boy  sleeping in the bed
+		- 男孩站在天桥上，夜光透过树的缝隙
+			-
 - 描述测试：山水画
   id:: 630ac5d3-be92-4b52-b6c5-13642ef2a2d6
   collapsed:: true
