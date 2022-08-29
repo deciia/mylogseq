@@ -51,6 +51,7 @@
 		- 屋檐垂落雨帘，溪水，风车，夏天
 			- Rain curtain falling from eaves, stream, windmill, summer
 		- 男孩拉着女孩的手站在阳台上，开心的女孩眼睛明亮，
+			- The boy and the girl stood on the balcony. The happy girl had bright eyes
 - 描述测试：山水画
   id:: 630ac5d3-be92-4b52-b6c5-13642ef2a2d6
   collapsed:: true
