@@ -46,6 +46,7 @@
 			- The big boy was lying on the chair of the overpass. There was a frog beside him. The moonlight passed through the gaps in the trees, clouds and stars
 			- The big boy was lying on the stool on the overpass. There was a frog beside him. The moonlight was shining through the gaps in the trees
 		- 月神女神跳芭蕾舞，树精，老鼠，大地上有光
+		- 美丽的女孩，抱着双膝，对着月亮微笑
 - 描述测试：山水画
   id:: 630ac5d3-be92-4b52-b6c5-13642ef2a2d6
   collapsed:: true
