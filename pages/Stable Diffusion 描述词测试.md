@@ -47,6 +47,10 @@
 			- The big boy was lying on the stool on the overpass. There was a frog beside him. The moonlight was shining through the gaps in the trees
 		- 月神女神跳芭蕾舞，树精，老鼠，大地上有光
 		- 美丽的女孩，抱着双膝，对着月亮微笑
+			- Beautiful girl holding her knees smiling at the moon
+		- 屋檐垂落雨帘，溪水，风车，夏天
+			- Rain curtain falling from eaves, stream, windmill, summer
+		- 男孩拉着女孩的手站在阳台上
 - 描述测试：山水画
   id:: 630ac5d3-be92-4b52-b6c5-13642ef2a2d6
   collapsed:: true
