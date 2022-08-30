@@ -68,8 +68,11 @@
 			- 光秃秃的，像斗鸡的冠一样，高耸入云的山，暴雨
 				- The mountains towering into the clouds are bare, like the crowns of cockfighting. It rains heavily, fantasy, intricate, volumetric environment,  illustration, highly detailed, chinese digital painting, concept art, matte, art by Caspar David Friedrich and Artgerm and Greg Rutkowski and Alphonse mucha, masterpiece, 8k.
 			- 蜿蜒的山脉，像蛇一样睡卧的山脉 ,碧绿
-				- Winding and sleeping like sa mountains, green
-			- 男人在山上砍树
+				- Winding and sleeping like snake mountains, green
+				- 起伏不断，林海茫茫的绿色的丘陵，点缀小黄花
+					- Ups and downs, the vast green hills of the forest, dotted with small yellow flowers
+			- 男人在山上砍树，绿色，林海
+				-
 			- 春天，满山的杜鹃花，红色的山，挺拔的杉树，弯曲的路，夕阳
 			- 下雨天，小溪，果树，枇杷熟了
 			- 山路十八弯，许多人在爬山，日出
