@@ -123,4 +123,11 @@
 	- A chinese dragon carved from jade, dynamic pose, close - up, intricate details, intricate textures, warm lighting, vivid colors, smoke and mist, realistic octane render, hyper realistic render, volumetric shading, depth of field, raytracing, 8 k
 		- 玉雕中国龙，动态姿势，特写，错综复杂的细节，错综复杂的纹理，温暖的灯光，鲜艳的色彩，烟雾和薄雾，逼真的辛烷值渲染，超逼真的渲染，体积着色，景深，光线追踪，8 k
 	- Asura from chinese myth, ghost, gorgeous and huge head ornaments, dystopian, cyberpunk, organic fractal mycelum and fungi, mecha, halfturn portrait of a big crystal face made of crystals half - turn, ominous, intricate, studio, art by anthony macbain + greg rutkowski + alphonse mucha, concept art, 4 k, sharp focus
-		-
+		- 中国神话中的阿修罗、幽灵、华丽而巨大的头饰、反乌托邦、赛博朋克、有机分形菌丝体和真菌、机甲、由水晶制成的大水晶面的半转肖像半转、不祥、错综复杂、工作室、安东尼·麦克本的艺术 + greg rutkowski + alphonse mucha，概念艺术，4 k，锐利的焦点
+		- A full body portrait of chinese buddhist mythology, king of hell, inside page of comic book, psychedelic lights and fog, in the style of zdzislaw beksinski, ayami kojima, takato yamamoto, barclay shaw, karol bak, glowing light and shadow, hyperrealist
+			- 中国佛教神话、地狱之王、漫画书内页、迷幻灯和雾的全身肖像，采用 zdzislaw beksinski、小岛绫美、山本隆人、巴克莱肖、卡罗尔巴克、发光的光和影、超现实主义的风格
+		- Zhongyuan festival, chinese ghost festival, king of hell
+	- Beautiful ancient fantasy portrait of ancient chinese mythical beast bai ze, hybrid from dynasty warriror, intricate, very very beautiful, elegant, highly detailed, digital painting, beautiful glowing galaxy eyes, human anatomy, hyperrealistic, soft light, dynamic, artbreeder, artstation, fantasy concept art, smooth, sharp focus, illustration, art by alphonse mucha and tian zi and wlop
+		- 古代中国神话野兽白泽的美丽古代幻想肖像，来自王朝武士的混合体，错综复杂，非常非常漂亮，优雅，高度详细，数字绘画，美丽发光的银河眼睛，人体解剖学，超现实主义，柔光，动态，艺术育种者，艺术站， 幻想概念艺术，流畅，清晰的焦点，插图，alphonse Mucha 和 tian zi 和 wlop 的艺术
+	- Portrait of a teapot, machine pot, decorated with chinese opera motifs, asian, fine china, traditional chinese art, intricate, elegant, highly detailed, symmetry, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, 8 k
+		- 茶壶肖像，机器壶，装饰有中国戏曲图案，亚洲，精美瓷器，中国传统艺术，复杂，优雅，高度详细，对称，数字绘画，艺术站，概念艺术，光滑，锐利的焦点，插图，artgerm 的艺术 和 greg rutkowski 和 alphonse Mucha，8 k
