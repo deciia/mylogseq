@@ -108,10 +108,19 @@
 			- 巴洛·韦恩·麦克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。这是一座中国寺庙。夜空中一片蔚蓝。只有一个冬天的月亮！！只有一个孤独的中国武侠，戴着竹帽，走在蜿蜒的台阶上。盛开的莲花湖！！超清晰和详细。3D，辛烷渲染。汹涌的血湖。
 		- A gorgeous landscape painting by barlowe wayne maxfield parrish and marco mazzoni. drak blue night sky. just one winter moon!! snow. chinese temple. just one lonely chinese monk in grey blue long gown walks on the winding steps. ultra clear detailed. 3 d, octane render. turbulent blood lake. fog
 			- 巴洛·韦恩·麦克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。夜空中一片蔚蓝。只有一个冬天的月亮！！雪这是一座中国寺庙。只有一个穿着灰蓝色长袍的孤独的中国僧侣走在蜿蜒的台阶上。超清晰和详细。3D，辛烷渲染。汹涌的血湖。雾
+		- A gorgeous landscape painting by barlowe wayne, maxfield parrish and marco mazzoni. chinese temple. a lonely chinese monk walks on the winding stone steps, stone gate to the dark cave, 3 d, octane render, turbulent blood lake, fog, 8 k.
+			- 巴洛·韦恩、马克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。这是一座中国寺庙。一个孤独的中国僧侣走在蜿蜒的石阶上，通往黑暗洞穴的石门，3D，辛烷渲染，汹涌的血湖，雾，8K。
+		- A gorgeous golden fall landscape painting by barlowe wayne, maxfield parrish and marco mazzoni. an abandoned chinese temple. clouds and mist among the mountains. a lonely chinese grey blue monk walks on the winding stone steps, 3 d, octane render, turbulent blood lake, 8 k.
+			- 巴洛韦恩、麦克斯菲尔德帕里什和马可马佐尼的华丽金色秋季风景画。 一座废弃的中国寺庙。 山间云雾缭绕。 一个孤独的中国灰蓝色和尚走在蜿蜒的石阶上，3 d，辛烷值渲染，湍急的血湖，8 k。
+		- an abandoned chinese temple. clouds and mist among the mountains. a lonely chinese grey blue monk walks on the winding stone steps
 	- Traditional chinese painting of a fishing village by huang gongwang
 		- 黄公旺渔村国画
 	- European medieval knight fighting a dragon in the style of old chinese art
 		- 中国古代艺术风格的欧洲中世纪武士斗龙
 	- A brilliant epic ink sketch of a chinese snake by roger dean in the style of baroque art, very, very aesthetic
 		- 罗杰·迪恩以巴洛克艺术风格创作的中国蛇的精彩史诗水墨素描
-	-
+		- 罗杰·迪恩（roger dean）以巴洛克艺术风格绘制的中国蛇的精彩史诗水墨素描，非常非常美观
+	- A chinese dragon carved from jade, dynamic pose, close - up, intricate details, intricate textures, warm lighting, vivid colors, smoke and mist, realistic octane render, hyper realistic render, volumetric shading, depth of field, raytracing, 8 k
+		- 玉雕中国龙，动态姿势，特写，错综复杂的细节，错综复杂的纹理，温暖的灯光，鲜艳的色彩，烟雾和薄雾，逼真的辛烷值渲染，超逼真的渲染，体积着色，景深，光线追踪，8 k
+	- Asura from chinese myth, ghost, gorgeous and huge head ornaments, dystopian, cyberpunk, organic fractal mycelum and fungi, mecha, halfturn portrait of a big crystal face made of crystals half - turn, ominous, intricate, studio, art by anthony macbain + greg rutkowski + alphonse mucha, concept art, 4 k, sharp focus
+		-
