@@ -91,4 +91,10 @@
 		- Chinese traditional painting,  beautiful woman, by katsuya terada and takeshi obata, epic composition, Highly detailed
 	- 中国画，山水画，云、雾及春，art by 刘国松
 		- Chinese painting, landscape painting, cloud, fog and spring, art by Liu Guosong
-- 来自 [Lexica – chinese](https://lexica.art/?q=chinese)
+- 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词
+	- A portrait of a chinese - african princess, moon light, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
+		- 吉卜力工作室吉卜力的greg rutkowski makoto shinkai takashi takeuchi绘制的一幅中国-非洲公主的肖像，月光，精细的特征，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上呈现趋势
+	- A film still of a busy chinese empire, sun lighting, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
+		- 这部电影仍然是一个繁忙的中国帝国，阳光明媚，细节精细，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上流行，由greg rutkowski makoto shinkai takashi takeuchi工作室吉卜力，吉田明彦绘制
+	- Character design, chinese women, beautiful face, dress peacock, bokeh, unreal engine render, intricate detail
+		- 人物设计，中国女性，美丽的脸庞，孔雀服饰，虚幻，虚幻引擎渲染，错综复杂的细节
