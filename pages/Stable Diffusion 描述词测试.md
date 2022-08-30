@@ -113,6 +113,10 @@
 		- A gorgeous golden fall landscape painting by barlowe wayne, maxfield parrish and marco mazzoni. an abandoned chinese temple. clouds and mist among the mountains. a lonely chinese grey blue monk walks on the winding stone steps, 3 d, octane render, turbulent blood lake, 8 k.
 			- 巴洛韦恩、麦克斯菲尔德帕里什和马可马佐尼的华丽金色秋季风景画。 一座废弃的中国寺庙。 山间云雾缭绕。 一个孤独的中国灰蓝色和尚走在蜿蜒的石阶上，3 d，辛烷值渲染，湍急的血湖，8 k。
 		- an abandoned chinese temple. clouds and mist among the mountains. a lonely chinese grey blue monk walks on the winding stone steps
+		- A gorgeous bleak spring landscape painting by barlowe wayne maxfield parrish and marco mazzoni. rainy mood. traditional huizhou architecture. just one chinese tombstone. grey blue and very little light verdancy. wet winding stone steps. ultra clear detailed. 3 d, octane render. turbulent blood lake. fog, 8 k
+			- 巴洛韦恩麦克斯菲尔德帕里什和马尔科马佐尼的一幅华丽的凄凉的春天风景画。 雨天的心情。 徽州传统建筑。 只有一块中国墓碑。 灰蓝色和很少的浅绿色。 湿漉漉的石阶。 超清晰详细。 3 d，辛烷值渲染。 汹涌的血湖。 雾，8 k
+		- A gorgeous painting by barlowe wayne, maxfield parrish and marco mazzoni. chinese style misty clouds. xanadu chinese temple on a platform that extends over a great waterfall, just one huge tallest magnificent peach blossom tree glowing, bridge. ultra clear detailed. 3 d, octane render. 8 k.
+			- 巴洛韦恩、麦克斯菲尔德帕里什和马可马佐尼的一幅华丽画作。 中国风云雾缭绕。 世外桃源的中国寺庙在一个平台上延伸，一个巨大的瀑布，只有一棵巨大的最高的宏伟桃花树发光，桥。 超清晰详细。 3 d，辛烷值渲染。 8 千。
 	- Traditional chinese painting of a fishing village by huang gongwang
 		- 黄公旺渔村国画
 	- European medieval knight fighting a dragon in the style of old chinese art
@@ -135,3 +139,9 @@
 	- An original game concept scene painting of an opulent palast chinese style ， super wide angle, magnificent and gorgeous atmosphere ， matte painting ， rtx on ， by moebius, neil blevins and jordan grimmer ， trending on cgsociety and artstation, unreal engine ， volumetric light ， surreal
 		- 原创游戏概念场景画，富丽堂皇的中国风，超广角，大气华丽，哑光绘画，rtx on，由moebius、neil blevins和jordan grimmer，cgsociety和artstation流行，虚幻引擎，体积光，超现实
 		- Misterious temple in the jungle in chinese style
+		- An original game concept scene painting of an opulent marketplace street scene in chinese style
+			- 一幅中国风格的富丽堂皇的市场街景的原创游戏概念场景画
+	- Gigantic tower in a stunning landscape, a chinese dragon winds itself around the tower, artstation, 4 k, concept art, grimgar
+		- 巨大的塔在壮丽的风景中，一条中国龙绕着塔，艺术站，4 k，概念艺术，grimgar
+	- Oracle of the void as chinese scroll art
+		- 作为中国卷轴艺术的虚空神谕
