@@ -214,4 +214,5 @@
 		- A beautiful water color and ink painting of a large landscape, with a chinese temple, streams and rocks, at dawn, emerging sun and hills on the horizon some light fog by lee madgwick or caspar david friedrich or edouard manet, trending on artstation
 			- 一幅美丽的水彩和水墨画，描绘了一幅大风景，有一座中国寺庙、溪流和岩石，黎明时分，地平线上出现的太阳和山丘，李·马德威克或卡斯帕·大卫·弗里德里希或爱德华·马奈的一些轻雾，在 artstation 上流行
 - 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词二
+  collapsed:: true
 	- Still photo of a chinese child smiling at the camera on the street, black and white color aesthetic, highly detailed, photorealistic portrait, bright studio setting, studio lighting, crisp quality and light reflections, unreal engine 5 quality render
