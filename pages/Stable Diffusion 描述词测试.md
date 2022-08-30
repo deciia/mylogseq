@@ -117,6 +117,10 @@
 			- 巴洛韦恩麦克斯菲尔德帕里什和马尔科马佐尼的一幅华丽的凄凉的春天风景画。 雨天的心情。 徽州传统建筑。 只有一块中国墓碑。 灰蓝色和很少的浅绿色。 湿漉漉的石阶。 超清晰详细。 3 d，辛烷值渲染。 汹涌的血湖。 雾，8 k
 		- A gorgeous painting by barlowe wayne, maxfield parrish and marco mazzoni. chinese style misty clouds. xanadu chinese temple on a platform that extends over a great waterfall, just one huge tallest magnificent peach blossom tree glowing, bridge. ultra clear detailed. 3 d, octane render. 8 k.
 			- 巴洛韦恩、麦克斯菲尔德帕里什和马可马佐尼的一幅华丽画作。 中国风云雾缭绕。 世外桃源的中国寺庙在一个平台上延伸，一个巨大的瀑布，只有一棵巨大的最高的宏伟桃花树发光，桥。 超清晰详细。 3 d，辛烷值渲染。 8 千。
+		- chinese temple. sunny morning. a lonely chinese wuxia walks on the winding stone steps, stone gate to the dark cave
+			- 中国寺庙。 阳光明媚的早晨。 一个孤独的中国武侠走在蜿蜒的石阶上，通往黑暗洞穴的石门
+		- chinese style misty clouds. xanadu chinese temple on a platform that extends over a great waterfall, just one huge tallest magnificent peach blossom tree glowing, bridge
+			- 中国风云雾缭绕。 Xanadu 中国寺庙在一个平台上，延伸到一个大瀑布上，只有一棵巨大的最高的宏伟桃花树发光，桥
 	- Traditional chinese painting of a fishing village by huang gongwang
 		- 黄公旺渔村国画
 	- European medieval knight fighting a dragon in the style of old chinese art
@@ -141,6 +145,8 @@
 		- Misterious temple in the jungle in chinese style
 		- An original game concept scene painting of an opulent marketplace street scene in chinese style
 			- 一幅中国风格的富丽堂皇的市场街景的原创游戏概念场景画
+		- An imposing chinese - style scene with many soldiers in armor riding war horses fighting on the battlefield ， the plains burning with the fire of war
+			- 一个气势恢宏的中国式场景，众多身着铠甲的士兵骑着战马在战场上战斗，平原燃烧着战火。
 	- Gigantic tower in a stunning landscape, a chinese dragon winds itself around the tower, artstation, 4 k, concept art, grimgar
 		- 巨大的塔在壮丽的风景中，一条中国龙绕着塔，艺术站，4 k，概念艺术，grimgar
 	- Oracle of the void as chinese scroll art
