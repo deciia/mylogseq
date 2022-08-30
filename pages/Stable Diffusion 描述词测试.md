@@ -131,3 +131,7 @@
 		- 古代中国神话野兽白泽的美丽古代幻想肖像，来自王朝武士的混合体，错综复杂，非常非常漂亮，优雅，高度详细，数字绘画，美丽发光的银河眼睛，人体解剖学，超现实主义，柔光，动态，艺术育种者，艺术站， 幻想概念艺术，流畅，清晰的焦点，插图，alphonse Mucha 和 tian zi 和 wlop 的艺术
 	- Portrait of a teapot, machine pot, decorated with chinese opera motifs, asian, fine china, traditional chinese art, intricate, elegant, highly detailed, symmetry, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, 8 k
 		- 茶壶肖像，机器壶，装饰有中国戏曲图案，亚洲，精美瓷器，中国传统艺术，复杂，优雅，高度详细，对称，数字绘画，艺术站，概念艺术，光滑，锐利的焦点，插图，artgerm 的艺术 和 greg rutkowski 和 alphonse Mucha，8 k
+		- Portrait of a cyberpunk machine, machine face
+	- An original game concept scene painting of an opulent palast chinese style ， super wide angle, magnificent and gorgeous atmosphere ， matte painting ， rtx on ， by moebius, neil blevins and jordan grimmer ， trending on cgsociety and artstation, unreal engine ， volumetric light ， surreal
+		- 原创游戏概念场景画，富丽堂皇的中国风，超广角，大气华丽，哑光绘画，rtx on，由moebius、neil blevins和jordan grimmer，cgsociety和artstation流行，虚幻引擎，体积光，超现实
+		- Misterious temple in the jungle in chinese style
