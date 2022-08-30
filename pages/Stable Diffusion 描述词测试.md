@@ -71,8 +71,7 @@
 				- Winding and sleeping like snake mountains, green
 				- 起伏不断，林海茫茫的绿色的丘陵，点缀小黄花
 					- Ups and downs, the vast green hills of the forest, dotted with small yellow flowers
-			- 男人在山上砍树，绿色，林海
-				-
+			- 男人在山上用斧子砍树，绿色，林海
 			- 春天，满山的杜鹃花，红色的山，挺拔的杉树，弯曲的路，夕阳
 			- 下雨天，小溪，果树，枇杷熟了
 			- 山路十八弯，许多人在爬山，日出
