@@ -124,6 +124,8 @@
 			- 中国寺庙。 阳光明媚的早晨。 一个孤独的中国武侠走在蜿蜒的石阶上，通往黑暗洞穴的石门
 		- chinese style misty clouds. xanadu chinese temple on a platform that extends over a great waterfall, just one huge tallest magnificent peach blossom tree glowing, bridge
 			- 中国风云雾缭绕。 Xanadu 中国寺庙在一个平台上，延伸到一个大瀑布上，只有一棵巨大的最高的宏伟桃花树发光，桥
+		- xanadu chinese temple on a platform that extends over a great waterfall, a huge tallest magnificent peach blossom tree glowing, maroon leaves, bridge, 3 d, octane render, lotus flower lake, waterfall. fog, just one rainbow
+			- 世外桃源中国寺庙位于一个平台上，平台上延伸着一个巨大的瀑布，一棵高大壮丽的桃花树，红叶，桥，3D，辛烷渲染，莲花湖，瀑布。雾，只有一道彩虹
 	- Traditional chinese painting of a fishing village by huang gongwang
 		- 黄公旺渔村国画
 	- European medieval knight fighting a dragon in the style of old chinese art
@@ -157,9 +159,20 @@
 	- Oracle of the void as chinese scroll art
 		- 作为中国卷轴艺术的虚空神谕
 	- Twin buddhist pagodas made of stone, in landscape, traditional chinese watercolor
+	  collapsed:: true
 		- 石制双佛塔，风景，中国传统水彩
 		- Twin buddhist pagodas in landscape, traditional chinese watercolor
 		- Zen monk meditating by a river, chinese landscape, traditional chinese ink painting
 			- 禅修士在河边打坐，中国山水，中国传统水墨画
+		- A beautiful painting of a buddhist temple in a serene landscape, traditional chinese painting
+			- 一幅美丽的佛寺画在宁静的风景中，国画
 	- Maximalist 3 d realistic detailed face portrait of a traditional chinese cybernetic indian hindu goddess tigress by mucha, and ernst haeckel, golden ratio, face in focus, art nouveau, neo - gothic, neoclassical, a psychedelic surreal background with holographic 3 d butterflies and 3 d flowers n the style of 1 9 9 0's cg graphics, lsd dream emulator psx, 3 d rendered y 2 k aesthetic by ichiro tanida
 		- 极简主义 3 d 逼真的中国传统控制论印度教女神母老虎的详细面部肖像，由 mucha 和 ernst haeckel、黄金比例、焦点面部、新艺术风格、新哥特式、新古典主义、带有全息 3 d 蝴蝶和 3 的迷幻超现实背景 d 花 n 1 9 9 0 的 cg 图形风格，lsd 梦想模拟器 psx，3 d 渲染 y 2 k 美学，由 ichiro tanida
+	- Adult girl with long aqua glass hair, aqua glass eyes, a small pigtail on the left side, chinese dress, chinese style, anime style, hyper detailed, light green dress, illustration, digital painting, art by artgerm and greg rutkowski and alphonse mucha, full body, anime stylized, highly detailed, realistic, sharp focus, styled by rhads
+		- 成年女孩，长着水玻璃头发，水玻璃眼睛，左侧有一条小辫子，中国服装，中国风格，动画风格，超细节，浅绿色连衣裙，插图，数字绘画，artgerm和greg rutkowski和alphonse mucha的艺术，全身，动画风格化，高度细节，逼真，焦点清晰，由rhads设计
+		- Adult girl with long aqua glass hair, aqua glass eyes, a small pigtail on the left side, chinese dress, chinese style, anime style, hyper detailed, light green dress, illustration, digital painting, art by artgerm and greg rutkowski and alphonse mucha, high delicate defined details, anime stylized, highly detailed, realistic, sharp focus, styled by rhads, full body
+			- 成年女孩，长着水玻璃头发，水玻璃眼睛，左侧有一条小辫子，中国服装，中国风格，动画风格，超细节，浅绿色连衣裙，插图，数字绘画，artgerm和greg rutkowski和alphonse mucha的艺术，高精致的细节，动画风格化，高度细节，逼真，锐利焦点，rhads风格，全身
+	- A goddess in chinese mythological dance in the air, tang dynasty costume, silk streamers, gorgeous, tarot card, red background, unreal engine, artstation
+		- 中国神话中的仙女空中舞，唐装，丝绸飘带，华丽，塔罗牌，红色背景，虚幻引擎，artstation
+		- 失败的尝试
+	-
