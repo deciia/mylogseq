@@ -104,6 +104,14 @@
 		- Portrait of a beautiful chinese girl in old beijing, painting by hun liu, oil on canvas, hyperrealism
 	- A gorgeous landscape painting by barlowe wayne maxfield parrish and marco mazzoni. farmhouse under bamboo forest. chinese temple. drak blue night sky. just one winter moon!! wet winding steps. ultra clear detailed. 3d, octane render. river. fog. 8k
 		- 巴洛·韦恩·麦克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。这是竹林下的农舍。这是一座中国寺庙。夜空中一片蔚蓝。只有一个冬天的月亮！！潮湿的缠绕台阶。超清晰和详细。3D，辛烷渲染。河雾8 k
+		- A gorgeous landscape painting by barlowe wayne maxfield parrish and marco mazzoni. chinese temple. drak blue night sky. just one winter moon!! just one lonely chinese wuxia with bamboo hat walks on the winding steps. blooming lotus lake!! ultra clear detailed. 3 d, octane render. turbulent blood lake.
+			- 巴洛·韦恩·麦克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。这是一座中国寺庙。夜空中一片蔚蓝。只有一个冬天的月亮！！只有一个孤独的中国武侠，戴着竹帽，走在蜿蜒的台阶上。盛开的莲花湖！！超清晰和详细。3D，辛烷渲染。汹涌的血湖。
+		- A gorgeous landscape painting by barlowe wayne maxfield parrish and marco mazzoni. drak blue night sky. just one winter moon!! snow. chinese temple. just one lonely chinese monk in grey blue long gown walks on the winding steps. ultra clear detailed. 3 d, octane render. turbulent blood lake. fog
+			- 巴洛·韦恩·麦克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。夜空中一片蔚蓝。只有一个冬天的月亮！！雪这是一座中国寺庙。只有一个穿着灰蓝色长袍的孤独的中国僧侣走在蜿蜒的台阶上。超清晰和详细。3D，辛烷渲染。汹涌的血湖。雾
 	- Traditional chinese painting of a fishing village by huang gongwang
 		- 黄公旺渔村国画
+	- European medieval knight fighting a dragon in the style of old chinese art
+		- 中国古代艺术风格的欧洲中世纪武士斗龙
+	- A brilliant epic ink sketch of a chinese snake by roger dean in the style of baroque art, very, very aesthetic
+		- 罗杰·迪恩以巴洛克艺术风格创作的中国蛇的精彩史诗水墨素描
 	-
