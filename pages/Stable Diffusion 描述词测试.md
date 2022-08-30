@@ -92,6 +92,7 @@
 	- 中国画，山水画，云、雾及春，art by 刘国松
 		- Chinese painting, landscape painting, cloud, fog and spring, art by Liu Guosong
 - 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词一
+  id:: 630d7e22-392c-4810-b3c3-eeb6bf4e2d20
   collapsed:: true
 	- A portrait of a chinese - african princess, moon light, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
 		- 吉卜力工作室吉卜力的greg rutkowski makoto shinkai takashi takeuchi绘制的一幅中国-非洲公主的肖像，月光，精细的特征，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上呈现趋势
