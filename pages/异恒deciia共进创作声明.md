@@ -9,7 +9,7 @@
 	- [@异恒 的个人主页 - 微博](https://weibo.com/decii)
 	- [Deciia的头条主页 - 今日头条(www.toutiao.com)](https://www.toutiao.com/c/user/token/MS4wLjABAAAAoFNpLWn-0HlLFnWUoU31OA-_XgKGxV1RY524SRHva-m6w2VnaGxvVqFMLZOKLNAp/?source=mine_home&log_from=c5b215850b802_1653053092347)
 	- 以上帐号发布的单篇内容将增加“共进创作声明”
-		- 声明：本文作者自愿加入共进创作宣言，
+		- 声明：本文作者自愿加入 [[共进创作宣言]]，并承诡遵守[[异恒deciia共进创作声明]]，该篇内容存在收益上限，上限计算公式为“时长 * 时薪 + 资源消耗”，多日思考以及最终完成打个折计4小时，时薪算25，资源消耗忽略不计，共计100元，
 - ## 具体如下
 	- 去银行办理一个可支配公共资产帐户（以下简称公共帐户），帐号为___________________
 		- 该帐户主要用于赞助其它参与了共进创作宣言的创作者

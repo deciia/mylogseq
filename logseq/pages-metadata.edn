@@ -19,9 +19,6 @@
  {:block/name "2022年08月29日",
   :block/created-at 1661702405054,
   :block/updated-at 1661775596397}
- {:block/name "62f79170-b138-49f0-9a88-2798bf783abd",
-  :block/created-at 1661331673449,
-  :block/updated-at 1661331673449}
  {:block/name "62f79170-e765-4e5a-bb36-83b192746ce0",
   :block/created-at 1661331652882,
   :block/updated-at 1661331652882}
@@ -129,7 +126,7 @@
   :block/updated-at 1660314082140}
  {:block/name "异恒deciia共进创作声明",
   :block/created-at 1661774478125,
-  :block/updated-at 1661778064358}
+  :block/updated-at 1661781002618}
  {:block/name "思考",
   :block/created-at 1661436594200,
   :block/updated-at 1661436594200}
