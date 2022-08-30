@@ -94,8 +94,10 @@
 - 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词
 	- A portrait of a chinese - african princess, moon light, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
 		- 吉卜力工作室吉卜力的greg rutkowski makoto shinkai takashi takeuchi绘制的一幅中国-非洲公主的肖像，月光，精细的特征，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上呈现趋势
-	- A film still of a busy chinese empire, sun lighting, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
-		- 这部电影仍然是一个繁忙的中国帝国，阳光明媚，细节精细，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上流行，由greg rutkowski makoto shinkai takashi takeuchi工作室吉卜力，吉田明彦绘制
+		- A film still of a busy chinese empire, sun lighting, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
+			- 这部电影仍然是一个繁忙的中国帝国，阳光明媚，细节精细，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上流行，由greg rutkowski makoto shinkai takashi takeuchi工作室吉卜力，吉田明彦绘制
+		- A pretty chinese woman wearing beatiful chinese clothing, face by artgerm, bright pastel colors, studio ghibli, painterly style, trending on artstation, tarot card
+			- 一个漂亮的中国女人，穿着漂亮的中国服装，artgerm的脸，明亮的彩色，吉卜力工作室，绘画风格，在artstation上流行，塔罗牌
 	- Character design, chinese women, beautiful face, dress peacock, bokeh, unreal engine render, intricate detail
 		- 人物设计，中国女性，美丽的脸庞，孔雀服饰，虚幻，虚幻引擎渲染，错综复杂的细节
 		- 生成了3张，效果都不是很好
@@ -103,6 +105,7 @@
 		- 《老北京一个英俊的中国男孩的画像》，刘浑作画，油画，超现实主义
 		- Portrait of a beautiful chinese girl in old beijing, painting by hun liu, oil on canvas, hyperrealism
 	- A gorgeous landscape painting by barlowe wayne maxfield parrish and marco mazzoni. farmhouse under bamboo forest. chinese temple. drak blue night sky. just one winter moon!! wet winding steps. ultra clear detailed. 3d, octane render. river. fog. 8k
+	  collapsed:: true
 		- 巴洛·韦恩·麦克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。这是竹林下的农舍。这是一座中国寺庙。夜空中一片蔚蓝。只有一个冬天的月亮！！潮湿的缠绕台阶。超清晰和详细。3D，辛烷渲染。河雾8 k
 		- A gorgeous landscape painting by barlowe wayne maxfield parrish and marco mazzoni. chinese temple. drak blue night sky. just one winter moon!! just one lonely chinese wuxia with bamboo hat walks on the winding steps. blooming lotus lake!! ultra clear detailed. 3 d, octane render. turbulent blood lake.
 			- 巴洛·韦恩·麦克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。这是一座中国寺庙。夜空中一片蔚蓝。只有一个冬天的月亮！！只有一个孤独的中国武侠，戴着竹帽，走在蜿蜒的台阶上。盛开的莲花湖！！超清晰和详细。3D，辛烷渲染。汹涌的血湖。
@@ -131,6 +134,7 @@
 	- A chinese dragon carved from jade, dynamic pose, close - up, intricate details, intricate textures, warm lighting, vivid colors, smoke and mist, realistic octane render, hyper realistic render, volumetric shading, depth of field, raytracing, 8 k
 		- 玉雕中国龙，动态姿势，特写，错综复杂的细节，错综复杂的纹理，温暖的灯光，鲜艳的色彩，烟雾和薄雾，逼真的辛烷值渲染，超逼真的渲染，体积着色，景深，光线追踪，8 k
 	- Asura from chinese myth, ghost, gorgeous and huge head ornaments, dystopian, cyberpunk, organic fractal mycelum and fungi, mecha, halfturn portrait of a big crystal face made of crystals half - turn, ominous, intricate, studio, art by anthony macbain + greg rutkowski + alphonse mucha, concept art, 4 k, sharp focus
+	  collapsed:: true
 		- 中国神话中的阿修罗、幽灵、华丽而巨大的头饰、反乌托邦、赛博朋克、有机分形菌丝体和真菌、机甲、由水晶制成的大水晶面的半转肖像半转、不祥、错综复杂、工作室、安东尼·麦克本的艺术 + greg rutkowski + alphonse mucha，概念艺术，4 k，锐利的焦点
 		- A full body portrait of chinese buddhist mythology, king of hell, inside page of comic book, psychedelic lights and fog, in the style of zdzislaw beksinski, ayami kojima, takato yamamoto, barclay shaw, karol bak, glowing light and shadow, hyperrealist
 			- 中国佛教神话、地狱之王、漫画书内页、迷幻灯和雾的全身肖像，采用 zdzislaw beksinski、小岛绫美、山本隆人、巴克莱肖、卡罗尔巴克、发光的光和影、超现实主义的风格
@@ -141,6 +145,7 @@
 		- 茶壶肖像，机器壶，装饰有中国戏曲图案，亚洲，精美瓷器，中国传统艺术，复杂，优雅，高度详细，对称，数字绘画，艺术站，概念艺术，光滑，锐利的焦点，插图，artgerm 的艺术 和 greg rutkowski 和 alphonse Mucha，8 k
 		- Portrait of a cyberpunk machine, machine face
 	- An original game concept scene painting of an opulent palast chinese style ， super wide angle, magnificent and gorgeous atmosphere ， matte painting ， rtx on ， by moebius, neil blevins and jordan grimmer ， trending on cgsociety and artstation, unreal engine ， volumetric light ， surreal
+	  collapsed:: true
 		- 原创游戏概念场景画，富丽堂皇的中国风，超广角，大气华丽，哑光绘画，rtx on，由moebius、neil blevins和jordan grimmer，cgsociety和artstation流行，虚幻引擎，体积光，超现实
 		- Misterious temple in the jungle in chinese style
 		- An original game concept scene painting of an opulent marketplace street scene in chinese style
@@ -151,3 +156,10 @@
 		- 巨大的塔在壮丽的风景中，一条中国龙绕着塔，艺术站，4 k，概念艺术，grimgar
 	- Oracle of the void as chinese scroll art
 		- 作为中国卷轴艺术的虚空神谕
+	- Twin buddhist pagodas made of stone, in landscape, traditional chinese watercolor
+		- 石制双佛塔，风景，中国传统水彩
+		- Twin buddhist pagodas in landscape, traditional chinese watercolor
+		- Zen monk meditating by a river, chinese landscape, traditional chinese ink painting
+			- 禅修士在河边打坐，中国山水，中国传统水墨画
+	- Maximalist 3 d realistic detailed face portrait of a traditional chinese cybernetic indian hindu goddess tigress by mucha, and ernst haeckel, golden ratio, face in focus, art nouveau, neo - gothic, neoclassical, a psychedelic surreal background with holographic 3 d butterflies and 3 d flowers n the style of 1 9 9 0's cg graphics, lsd dream emulator psx, 3 d rendered y 2 k aesthetic by ichiro tanida
+		- 极简主义 3 d 逼真的中国传统控制论印度教女神母老虎的详细面部肖像，由 mucha 和 ernst haeckel、黄金比例、焦点面部、新艺术风格、新哥特式、新古典主义、带有全息 3 d 蝴蝶和 3 的迷幻超现实背景 d 花 n 1 9 9 0 的 cg 图形风格，lsd 梦想模拟器 psx，3 d 渲染 y 2 k 美学，由 ichiro tanida
