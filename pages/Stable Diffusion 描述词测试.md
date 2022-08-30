@@ -76,6 +76,7 @@
 				- Spring, azaleas all over the mountain, tall and straight fir trees, curved roads, sunset
 			- 下雨天，小溪，果树，枇杷熟了
 			- 山路十八弯，许多人在爬山，日出
+				- Many people are climbing the mountain, eighteen bends of the mountain road, sunrise
 - 描述测试：山水画
   id:: 630ac5d3-be92-4b52-b6c5-13642ef2a2d6
   collapsed:: true
