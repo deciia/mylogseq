@@ -1,4 +1,4 @@
-- 自 [[2022年08月29日]] 起，异恒deciia（以下简称异恒）自愿参加 [[共进创作宣言]]。
+- 自 [[2022-08-29]] 起，异恒deciia（以下简称异恒）自愿参加 [[共进创作宣言]]。
 - 异恒的以下受影响帐号中的内容作品，将遵循分配规则LV1（即商品最大可交易价值原则）
 	- Notion 站 [东土记事](https://easternote.com/)，Wikidot 站 [东土记事](http://easternote.wikidot.com/)
 	- 托管在github和vercel 上的 知识图谱站 [庭燎馆](https://tingliao.easternote.com/)
