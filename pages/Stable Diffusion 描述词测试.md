@@ -158,6 +158,8 @@
 			- 一个气势恢宏的中国式场景，众多身着铠甲的士兵骑着战马在战场上战斗，平原燃烧着战火。
 	- Gigantic tower in a stunning landscape, a chinese dragon winds itself around the tower, artstation, 4 k, concept art, grimgar
 		- 巨大的塔在壮丽的风景中，一条中国龙绕着塔，艺术站，4 k，概念艺术，grimgar
+		- Cyan chinese dragon fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp focus, illustration by greg rutkowski, john howe
+			- 青色中国龙奇幻，复杂，优雅，高度细节，数字绘画，artstation，概念艺术，哑光，锐利聚焦，greg rutkowski，john howe插图
 	- Oracle of the void as chinese scroll art
 		- 作为中国卷轴艺术的虚空神谕
 	- Twin buddhist pagodas made of stone, in landscape, traditional chinese watercolor
@@ -170,6 +172,8 @@
 			- 一幅美丽的佛寺画在宁静的风景中，国画
 	- Maximalist 3 d realistic detailed face portrait of a traditional chinese cybernetic indian hindu goddess tigress by mucha, and ernst haeckel, golden ratio, face in focus, art nouveau, neo - gothic, neoclassical, a psychedelic surreal background with holographic 3 d butterflies and 3 d flowers n the style of 1 9 9 0's cg graphics, lsd dream emulator psx, 3 d rendered y 2 k aesthetic by ichiro tanida
 		- 极简主义 3 d 逼真的中国传统控制论印度教女神母老虎的详细面部肖像，由 mucha 和 ernst haeckel、黄金比例、焦点面部、新艺术风格、新哥特式、新古典主义、带有全息 3 d 蝴蝶和 3 的迷幻超现实背景 d 花 n 1 9 9 0 的 cg 图形风格，lsd 梦想模拟器 psx，3 d 渲染 y 2 k 美学，由 ichiro tanida
+		- Maximalist 3 d realistic detailed face portrait of a traditional chinese cybernetic indian tigress by mucha, ayami kojima, amano, greg hildebrandt, mark brooks, and ernst haeckel, golden ratio, face in focus, art nouveau, neo - gothic, neoclassical, a psychedelic surreal background with holographic 3 d butterflies and 3 d flowers n the style of 1 9 9 0's cg graphics, lsd dream emulator psx, 3 d rendered y 2 k aesthetic by ichiro tanida
+			- 由木查、小岛由美、天野之弥、格雷格·希尔德布兰特、马克·布鲁克斯和恩斯特·海克尔创作的传统中国控制论印度虎妞的3D逼真细节面部肖像，黄金比例、对焦面部、新艺术主义、新哥特、新古典主义、迷幻超现实背景，以及19世纪90年代cg图形风格的全息3D蝴蝶和3D花朵，lsd梦幻模拟器psx，由田田田一郎（ichiro tanida）绘制的3D渲染y 2K美学
 	- Adult girl with long aqua glass hair, aqua glass eyes, a small pigtail on the left side, chinese dress, chinese style, anime style, hyper detailed, light green dress, illustration, digital painting, art by artgerm and greg rutkowski and alphonse mucha, full body, anime stylized, highly detailed, realistic, sharp focus, styled by rhads
 		- 成年女孩，长着水玻璃头发，水玻璃眼睛，左侧有一条小辫子，中国服装，中国风格，动画风格，超细节，浅绿色连衣裙，插图，数字绘画，artgerm和greg rutkowski和alphonse mucha的艺术，全身，动画风格化，高度细节，逼真，焦点清晰，由rhads设计
 		- Adult girl with long aqua glass hair, aqua glass eyes, a small pigtail on the left side, chinese dress, chinese style, anime style, hyper detailed, light green dress, illustration, digital painting, art by artgerm and greg rutkowski and alphonse mucha, high delicate defined details, anime stylized, highly detailed, realistic, sharp focus, styled by rhads, full body
@@ -182,3 +186,9 @@
 		- 科幻太空船走廊内部，有通往夜空外层空间的窗户，有中国古代美学，电脑和数字显示器，霓虹灯，穿着露脐上衣和头盔和比基尼的优雅美女，东方主义绘画，安托万·让·格罗斯，西奥多·沙塞里奥 , 前拉斐尔兄弟会, 布面油画, 杰作
 	- Little chinese girl with flowers in hair wearing an white dress. art by ilya kuvshinov, profile picture, inspired in hirohiko araki, realistic, highly detailed, 8 0 s anime art style, vogue cover
 		- 头发花的中国小女孩穿着白色连衣裙。 ilya kuvshinov 创作的艺术，个人资料图片，灵感来自 hirohiko araki，逼真，高度详细，8 0 s 动漫艺术风格，时尚封面
+	- Pretty chinese model with hallucination mushroom : : by martine johanna and simon stalenhag and chie yoshii and casey weldon and wlop : : ornate, dynamic, particulate, rich colors, intricate, elegant, highly detailed, vogue, harper's bazaar art, fashion magazine, smooth, sharp focus, 8 k, octane render
+		- 美丽的中国模特与幻觉蘑菇：：由martine johanna和simon stalenhag和chie yoshii和casey weldon和wlop创作：：华丽、动态、颗粒、丰富的色彩、复杂、优雅、高度细节、时尚、哈珀巴扎艺术、时尚杂志、平滑、清晰聚焦、8K、辛烷渲染
+	- Organic cyborg, chinese blue and white porcelain, diffuse lighting, fantasy, intricate, elegant, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, by john collier and albert aublet and krenz cushart and artem demura and james jean h 8 9 6
+		- 有机机器人，中国青花瓷，漫射照明，幻想，复杂，优雅，高度详细，逼真，逼真，数字绘画，艺术站，插图，概念艺术，平滑，清晰的焦点，约翰·科利尔和阿尔伯特·奥布莱特和克伦茨·库沙特和 artem demura 和 james jean h 8 9 6
+	- A witch with chinese armor and sword
+		- 戴着中国盔甲和剑的女巫
