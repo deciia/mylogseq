@@ -93,12 +93,13 @@
 		- Chinese painting, landscape painting, cloud, fog and spring, art by Liu Guosong
 - 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词
 	- A portrait of a chinese - african princess, moon light, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
-	  collapsed:: true
 		- 吉卜力工作室吉卜力的greg rutkowski makoto shinkai takashi takeuchi绘制的一幅中国-非洲公主的肖像，月光，精细的特征，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上呈现趋势
 		- A film still of a busy chinese empire, sun lighting, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
 			- 这部电影仍然是一个繁忙的中国帝国，阳光明媚，细节精细，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上流行，由greg rutkowski makoto shinkai takashi takeuchi工作室吉卜力，吉田明彦绘制
 		- A pretty chinese woman wearing beatiful chinese clothing, face by artgerm, bright pastel colors, studio ghibli, painterly style, trending on artstation, tarot card
 			- 一个漂亮的中国女人，穿着漂亮的中国服装，artgerm的脸，明亮的彩色，吉卜力工作室，绘画风格，在artstation上流行，塔罗牌
+		- A full body portrait of a young latin woman with a mask in a flowery fruit - based dress wearing a ( ( chinese ) ) mask, night lighting with candles delicate features finely detailed perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli
+			- 吉卜力工作室的greg rutkowski makoto shinkai takashi takeuchi在一座古城gapmoe yandere grimdark绘制了一幅全身画像，画中是一位年轻的拉丁女子，她戴着面具，穿着一件以水果为基础的花裙子，戴着一个（（中国））面具，夜晚用蜡烛照明，精致精致，细节完美
 	- Character design, chinese women, beautiful face, dress peacock, bokeh, unreal engine render, intricate detail
 		- 人物设计，中国女性，美丽的脸庞，孔雀服饰，虚幻，虚幻引擎渲染，错综复杂的细节
 		- 生成了3张，效果都不是很好
@@ -106,6 +107,7 @@
 		- 《老北京一个英俊的中国男孩的画像》，刘浑作画，油画，超现实主义
 		- Portrait of a beautiful chinese girl in old beijing, painting by hun liu, oil on canvas, hyperrealism
 	- A gorgeous landscape painting by barlowe wayne maxfield parrish and marco mazzoni. farmhouse under bamboo forest. chinese temple. drak blue night sky. just one winter moon!! wet winding steps. ultra clear detailed. 3d, octane render. river. fog. 8k
+	  collapsed:: true
 		- 巴洛·韦恩·麦克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。这是竹林下的农舍。这是一座中国寺庙。夜空中一片蔚蓝。只有一个冬天的月亮！！潮湿的缠绕台阶。超清晰和详细。3D，辛烷渲染。河雾8 k
 		- A gorgeous landscape painting by barlowe wayne maxfield parrish and marco mazzoni. chinese temple. drak blue night sky. just one winter moon!! just one lonely chinese wuxia with bamboo hat walks on the winding steps. blooming lotus lake!! ultra clear detailed. 3 d, octane render. turbulent blood lake.
 			- 巴洛·韦恩·麦克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。这是一座中国寺庙。夜空中一片蔚蓝。只有一个冬天的月亮！！只有一个孤独的中国武侠，戴着竹帽，走在蜿蜒的台阶上。盛开的莲花湖！！超清晰和详细。3D，辛烷渲染。汹涌的血湖。
@@ -192,3 +194,13 @@
 		- 有机机器人，中国青花瓷，漫射照明，幻想，复杂，优雅，高度详细，逼真，逼真，数字绘画，艺术站，插图，概念艺术，平滑，清晰的焦点，约翰·科利尔和阿尔伯特·奥布莱特和克伦茨·库沙特和 artem demura 和 james jean h 8 9 6
 	- A witch with chinese armor and sword
 		- 戴着中国盔甲和剑的女巫
+	- Photorealistic underground dance club, chinese exquisite carving sculpture, the sculpture is inflatable, fog pink hell themed, bosch paintings on walls, fog pink orchids growing on people, the human body is slowly merging with the sculpture, phantom, francis bacon, people wear surreal dramatic down jackets designed by jean - paul gaultier, epic photorealistic octane render ， hd film camera
+		- 写实地下舞会，中国精美雕刻雕塑，充气雕塑，雾粉色地狱主题，墙上博世画，雾粉色兰花长在人身上，人体慢慢与雕塑融为一体，幻影，弗朗西斯培根，人穿超现实 由 jean-paul gaultier 设计的戏剧性羽绒服，史诗般逼真的辛烷值渲染，高清胶片相机
+		- Full head and shoulders, beautiful female white, porcelain sculpture, with lots of ornate gold leaf 3 d chinese dragons attached to head by yoshitaka amano and daniel arsham, on a white background, delicate facial features, white eyes, white lashes
+			- 完整的头部和肩部，美丽的女性白色，陶瓷雕塑，由吉田天野和丹尼尔·阿沙姆在白色背景上，将许多华丽的金叶3D中国龙附在头部，精致的面部特征，白色的眼睛，白色的睫毛
+		- Full head and shoulders, beautiful female white, porcelain sculpture, with lots of ornate emerald leaf 3 d chinese dragons attached to head by daniel arsham and james jean, on a white background, delicate facial features, white eyes, white lashes
+			- 完整的头部和肩部，美丽的女性白色，陶瓷雕塑，丹尼尔·阿尔沙姆和詹姆斯·吉恩在白色背景下，将许多装饰华丽的绿叶3D中国龙附在头部，精致的面部特征，白色的眼睛，白色的睫毛
+	- A street lined with chinese casinos and nightclubs, bathing in lighting from neon signs, rainy afternoon, 1995
+		- 1995年一个下雨的下午，一条街道两旁是中国的赌场和夜总会，沐浴在霓虹灯的灯光下
+	- Elon musk on a chinese propaganda poster colored ink illustration art key art, photorealistic
+		- 埃隆·马斯克在中国宣传海报上的彩色水墨插画艺术关键艺术，写实
