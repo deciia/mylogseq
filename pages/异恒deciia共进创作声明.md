@@ -5,6 +5,7 @@
 	- 托管在github和vercel 上的 知识图谱站 [庭燎馆](https://tingliao.easternote.com/)
 	- 爱发电 [Deciia正在创作幻想作品设定、小说及游戏](https://afdian.net/@deciia) 中单独售卖的内容商品
 	- 微信订阅号“东土记事”（eln-cn）
+		- ![image.png](../assets/image_1661897502396_0.png)
 	- [水的腮衣啊deciia的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/15408522/)
 	- [Deciia - 知乎](https://www.zhihu.com/people/wang-deciia/posts)
 	- [Deciia - 简书](https://www.jianshu.com/u/87d31e87665d)
