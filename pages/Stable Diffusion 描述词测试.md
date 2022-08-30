@@ -91,7 +91,8 @@
 		- Chinese traditional painting,  beautiful woman, by katsuya terada and takeshi obata, epic composition, Highly detailed
 	- 中国画，山水画，云、雾及春，art by 刘国松
 		- Chinese painting, landscape painting, cloud, fog and spring, art by Liu Guosong
-- 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词
+- 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词一
+  collapsed:: true
 	- A portrait of a chinese - african princess, moon light, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
 		- 吉卜力工作室吉卜力的greg rutkowski makoto shinkai takashi takeuchi绘制的一幅中国-非洲公主的肖像，月光，精细的特征，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上呈现趋势
 		- A film still of a busy chinese empire, sun lighting, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
@@ -204,3 +205,13 @@
 		- 1995年一个下雨的下午，一条街道两旁是中国的赌场和夜总会，沐浴在霓虹灯的灯光下
 	- Elon musk on a chinese propaganda poster colored ink illustration art key art, photorealistic
 		- 埃隆·马斯克在中国宣传海报上的彩色水墨插画艺术关键艺术，写实
+	- Masterpiece digital painting of a large landscape, with a chinese temple, streams and rocks, moon disc, stars in the sky, at dawn, emerging sun and hills on the horizon some light fog by wlop and sandara, 8 k, unreal engine, trending on artstation, more dark purple color scheme, cinematic lights, fireflies
+		- 大型景观的杰作数字绘画，包括中国寺庙、溪流和岩石、月亮圆盘、天空中的星星、黎明时的太阳和地平线上的小山wlop和sandara的一些薄雾、8 k、虚幻引擎、artstation上的趋势、更多深紫色配色方案、电影灯光、萤火虫
+		- A beautiful water color and ink painting of a large landscape, with a chinese temple, streams and rocks, moon disc, stars in the sky, at dawn, emerging sun and hills on the horizon some light fog by lee madgwick and wlop, trending on artstation, more dark purple color scheme, cinematic lights, fireflies
+			- 一幅美丽的水彩和水墨画，描绘了一幅大风景，有一座中国寺庙、溪流和岩石、月亮圆盘、天空中的星星、黎明时分、地平线上出现的太阳和山丘，李·马德威克和 wlop 的一些轻雾，趋势 artstation，更深紫色的配色方案，电影灯，萤火虫
+		- A beautiful water color and ink painting of a large landscape, with a chinese temple, streams and rocks, at dawn, emerging sun and hills on the horizon some light fog by lee madgwick or caspar david friedrich or edouard manet, trending on artstation, more dark purple color scheme, cinematic lights
+			- 一幅美丽的水彩和水墨画，描绘了一个大风景，有一座中国寺庙、溪流和岩石，黎明时分，地平线上出现的太阳和山丘，李·马德威克或卡斯帕·大卫·弗里德里希或爱德华·马奈的一些轻雾，在 artstation 上流行，更多 深紫色配色方案，电影灯光
+		- A beautiful water color and ink painting of a large landscape, with a chinese temple, streams and rocks, at dawn, emerging sun and hills on the horizon some light fog by lee madgwick or caspar david friedrich or edouard manet, trending on artstation
+			- 一幅美丽的水彩和水墨画，描绘了一幅大风景，有一座中国寺庙、溪流和岩石，黎明时分，地平线上出现的太阳和山丘，李·马德威克或卡斯帕·大卫·弗里德里希或爱德华·马奈的一些轻雾，在 artstation 上流行
+- 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词二
+	- Still photo of a chinese child smiling at the camera on the street, black and white color aesthetic, highly detailed, photorealistic portrait, bright studio setting, studio lighting, crisp quality and light reflections, unreal engine 5 quality render
