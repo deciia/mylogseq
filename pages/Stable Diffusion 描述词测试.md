@@ -65,6 +65,7 @@
 			  collapsed:: true
 				- The boy and the girl stood on the balcony. The happy girl had bright eyes
 		- 大山和它的子民配图
+		  collapsed:: true
 			- 光秃秃的，像斗鸡的冠一样，高耸入云的山，暴雨
 				- The mountains towering into the clouds are bare, like the crowns of cockfighting. It rains heavily, fantasy, intricate, volumetric environment,  illustration, highly detailed, chinese digital painting, concept art, matte, art by Caspar David Friedrich and Artgerm and Greg Rutkowski and Alphonse mucha, masterpiece, 8k.
 			- 蜿蜒的山脉，像蛇一样睡卧的山脉 ,碧绿
