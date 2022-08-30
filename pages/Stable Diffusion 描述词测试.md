@@ -98,3 +98,12 @@
 		- 这部电影仍然是一个繁忙的中国帝国，阳光明媚，细节精细，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上流行，由greg rutkowski makoto shinkai takashi takeuchi工作室吉卜力，吉田明彦绘制
 	- Character design, chinese women, beautiful face, dress peacock, bokeh, unreal engine render, intricate detail
 		- 人物设计，中国女性，美丽的脸庞，孔雀服饰，虚幻，虚幻引擎渲染，错综复杂的细节
+		- 生成了3张，效果都不是很好
+	- Portrait of a handsome chinese boy in old beijing, painting by hun liu, oil on canvas, hyperrealism
+		- 《老北京一个英俊的中国男孩的画像》，刘浑作画，油画，超现实主义
+		- Portrait of a beautiful chinese girl in old beijing, painting by hun liu, oil on canvas, hyperrealism
+	- A gorgeous landscape painting by barlowe wayne maxfield parrish and marco mazzoni. farmhouse under bamboo forest. chinese temple. drak blue night sky. just one winter moon!! wet winding steps. ultra clear detailed. 3d, octane render. river. fog. 8k
+		- 巴洛·韦恩·麦克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。这是竹林下的农舍。这是一座中国寺庙。夜空中一片蔚蓝。只有一个冬天的月亮！！潮湿的缠绕台阶。超清晰和详细。3D，辛烷渲染。河雾8 k
+	- Traditional chinese painting of a fishing village by huang gongwang
+		- 黄公旺渔村国画
+	-
