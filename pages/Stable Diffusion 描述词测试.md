@@ -93,6 +93,7 @@
 		- Chinese painting, landscape painting, cloud, fog and spring, art by Liu Guosong
 - 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词
 	- A portrait of a chinese - african princess, moon light, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
+	  collapsed:: true
 		- 吉卜力工作室吉卜力的greg rutkowski makoto shinkai takashi takeuchi绘制的一幅中国-非洲公主的肖像，月光，精细的特征，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上呈现趋势
 		- A film still of a busy chinese empire, sun lighting, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
 			- 这部电影仍然是一个繁忙的中国帝国，阳光明媚，细节精细，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上流行，由greg rutkowski makoto shinkai takashi takeuchi工作室吉卜力，吉田明彦绘制
@@ -105,7 +106,6 @@
 		- 《老北京一个英俊的中国男孩的画像》，刘浑作画，油画，超现实主义
 		- Portrait of a beautiful chinese girl in old beijing, painting by hun liu, oil on canvas, hyperrealism
 	- A gorgeous landscape painting by barlowe wayne maxfield parrish and marco mazzoni. farmhouse under bamboo forest. chinese temple. drak blue night sky. just one winter moon!! wet winding steps. ultra clear detailed. 3d, octane render. river. fog. 8k
-	  collapsed:: true
 		- 巴洛·韦恩·麦克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。这是竹林下的农舍。这是一座中国寺庙。夜空中一片蔚蓝。只有一个冬天的月亮！！潮湿的缠绕台阶。超清晰和详细。3D，辛烷渲染。河雾8 k
 		- A gorgeous landscape painting by barlowe wayne maxfield parrish and marco mazzoni. chinese temple. drak blue night sky. just one winter moon!! just one lonely chinese wuxia with bamboo hat walks on the winding steps. blooming lotus lake!! ultra clear detailed. 3 d, octane render. turbulent blood lake.
 			- 巴洛·韦恩·麦克斯菲尔德·帕里什和马可·马佐尼的华丽风景画。这是一座中国寺庙。夜空中一片蔚蓝。只有一个冬天的月亮！！只有一个孤独的中国武侠，戴着竹帽，走在蜿蜒的台阶上。盛开的莲花湖！！超清晰和详细。3D，辛烷渲染。汹涌的血湖。
@@ -146,6 +146,8 @@
 	- Portrait of a teapot, machine pot, decorated with chinese opera motifs, asian, fine china, traditional chinese art, intricate, elegant, highly detailed, symmetry, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, 8 k
 		- 茶壶肖像，机器壶，装饰有中国戏曲图案，亚洲，精美瓷器，中国传统艺术，复杂，优雅，高度详细，对称，数字绘画，艺术站，概念艺术，光滑，锐利的焦点，插图，artgerm 的艺术 和 greg rutkowski 和 alphonse Mucha，8 k
 		- Portrait of a cyberpunk machine, machine face
+		- Portrait of a machine from horizon zero dawn, machine face, upper body, decorated with chinese opera motifs, asian, traditional chinese art, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, 8 k
+			- 从地平线零黎明开始的机器肖像，机器脸，上身，装饰有中国歌剧图案，亚洲，中国传统艺术，复杂，优雅，高度详细，数字绘画，艺术站，概念艺术，平滑，清晰的焦点，插图，artgerm和greg rutkowski和alphonse mucha的艺术，8 k
 	- An original game concept scene painting of an opulent palast chinese style ， super wide angle, magnificent and gorgeous atmosphere ， matte painting ， rtx on ， by moebius, neil blevins and jordan grimmer ， trending on cgsociety and artstation, unreal engine ， volumetric light ， surreal
 	  collapsed:: true
 		- 原创游戏概念场景画，富丽堂皇的中国风，超广角，大气华丽，哑光绘画，rtx on，由moebius、neil blevins和jordan grimmer，cgsociety和artstation流行，虚幻引擎，体积光，超现实
@@ -172,7 +174,11 @@
 		- 成年女孩，长着水玻璃头发，水玻璃眼睛，左侧有一条小辫子，中国服装，中国风格，动画风格，超细节，浅绿色连衣裙，插图，数字绘画，artgerm和greg rutkowski和alphonse mucha的艺术，全身，动画风格化，高度细节，逼真，焦点清晰，由rhads设计
 		- Adult girl with long aqua glass hair, aqua glass eyes, a small pigtail on the left side, chinese dress, chinese style, anime style, hyper detailed, light green dress, illustration, digital painting, art by artgerm and greg rutkowski and alphonse mucha, high delicate defined details, anime stylized, highly detailed, realistic, sharp focus, styled by rhads, full body
 			- 成年女孩，长着水玻璃头发，水玻璃眼睛，左侧有一条小辫子，中国服装，中国风格，动画风格，超细节，浅绿色连衣裙，插图，数字绘画，artgerm和greg rutkowski和alphonse mucha的艺术，高精致的细节，动画风格化，高度细节，逼真，锐利焦点，rhads风格，全身
+		- light green dress
 	- A goddess in chinese mythological dance in the air, tang dynasty costume, silk streamers, gorgeous, tarot card, red background, unreal engine, artstation
 		- 中国神话中的仙女空中舞，唐装，丝绸飘带，华丽，塔罗牌，红色背景，虚幻引擎，artstation
 		- 失败的尝试
-	-
+	- Sci - fi space ship corridor interior, with windows to night sky outer space, with ancient chinese aesthetic, computers and digital monitors, neon lights, elegant beautiful women wearing crop tops and helmets and bikini, orientalist painting, by antoine jean gros, theodore chasseriau, pre - raphaelite brotherhood, oil painting on canvas, masterpiece
+		- 科幻太空船走廊内部，有通往夜空外层空间的窗户，有中国古代美学，电脑和数字显示器，霓虹灯，穿着露脐上衣和头盔和比基尼的优雅美女，东方主义绘画，安托万·让·格罗斯，西奥多·沙塞里奥 , 前拉斐尔兄弟会, 布面油画, 杰作
+	- Little chinese girl with flowers in hair wearing an white dress. art by ilya kuvshinov, profile picture, inspired in hirohiko araki, realistic, highly detailed, 8 0 s anime art style, vogue cover
+		- 头发花的中国小女孩穿着白色连衣裙。 ilya kuvshinov 创作的艺术，个人资料图片，灵感来自 hirohiko araki，逼真，高度详细，8 0 s 动漫艺术风格，时尚封面
