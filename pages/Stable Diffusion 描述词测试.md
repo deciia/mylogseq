@@ -91,4 +91,4 @@
 		- Chinese traditional painting,  beautiful woman, by katsuya terada and takeshi obata, epic composition, Highly detailed
 	- 中国画，山水画，云、雾及春，art by 刘国松
 		- Chinese painting, landscape painting, cloud, fog and spring, art by Liu Guosong
--
+- 来自 [Lexica – chinese](https://lexica.art/?q=chinese)
