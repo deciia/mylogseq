@@ -93,14 +93,13 @@
 		- Chinese painting, landscape painting, cloud, fog and spring, art by Liu Guosong
 - 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词一
   id:: 630d7e22-392c-4810-b3c3-eeb6bf4e2d20
-  collapsed:: true
 	- A portrait of a chinese - african princess, moon light, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
 		- 吉卜力工作室吉卜力的greg rutkowski makoto shinkai takashi takeuchi绘制的一幅中国-非洲公主的肖像，月光，精细的特征，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上呈现趋势
 		- A film still of a busy chinese empire, sun lighting, finely detailed features, perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli, akihiko yoshida
 			- 这部电影仍然是一个繁忙的中国帝国，阳光明媚，细节精细，完美的艺术，在一座古城，gapmoe yandere grimdark，在pixiv风扇箱上流行，由greg rutkowski makoto shinkai takashi takeuchi工作室吉卜力，吉田明彦绘制
 		- A pretty chinese woman wearing beatiful chinese clothing, face by artgerm, bright pastel colors, studio ghibli, painterly style, trending on artstation, tarot card
 			- 一个漂亮的中国女人，穿着漂亮的中国服装，artgerm的脸，明亮的彩色，吉卜力工作室，绘画风格，在artstation上流行，塔罗牌
-		- A full body portrait of a young latin woman with a mask in a flowery fruit - based dress wearing a ( ( chinese ) ) mask, night lighting with candles delicate features finely detailed perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli
+		- A full body portrait of a young latin woman with a mask in a flowery fruit - based dress wearing a chinese mask, night lighting with candles delicate features finely detailed perfect art, at an ancient city, gapmoe yandere grimdark, trending on pixiv fanbox, painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli
 			- 吉卜力工作室的greg rutkowski makoto shinkai takashi takeuchi在一座古城gapmoe yandere grimdark绘制了一幅全身画像，画中是一位年轻的拉丁女子，她戴着面具，穿着一件以水果为基础的花裙子，戴着一个（（中国））面具，夜晚用蜡烛照明，精致精致，细节完美
 	- Character design, chinese women, beautiful face, dress peacock, bokeh, unreal engine render, intricate detail
 		- 人物设计，中国女性，美丽的脸庞，孔雀服饰，虚幻，虚幻引擎渲染，错综复杂的细节
@@ -217,7 +216,7 @@
 - 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词二
 	- Still photo of a chinese child smiling at the camera on the street, black and white color aesthetic, highly detailed, photorealistic portrait, bright studio setting, studio lighting, crisp quality and light reflections, unreal engine 5 quality render
 	- 伞，女孩
-	- 清晨，远景铺上了金色的阳光，刚做完梦的女孩把自己裹在被单里
-	- 女孩站在草坪上，布谷岛叫，女孩很痛苦
+	- 清晨，远景铺上了金色的阳光，刚做完梦的女孩把自己裹在被单里，慌乱
+	- 女孩站在草坪上，花花轻轻绽放，布谷岛叫，女孩很痛苦
 	- 男孩坐在窗前，下雨的夏天，河岸的垂柳，枝条在风里飘来飘去，叶子到处飞
 	- 青松像女仆招手流泪滴雨，快乐的花草，流星般的大雨暴雨，绿色
