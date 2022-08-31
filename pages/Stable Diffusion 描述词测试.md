@@ -216,10 +216,9 @@
 - 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词二
 	- Still photo of a chinese child smiling at the camera on the street, black and white color aesthetic, highly detailed, photorealistic portrait, bright studio setting, studio lighting, crisp quality and light reflections, unreal engine 5 quality render
 	- 伞，女孩
-	- 清晨，远景铺上了金色的阳光，刚做完梦的女孩把自己裹在被单里，慌乱
-		- 美丽的女孩，在被单里，慌乱，玻璃窗，幻想，复杂的体积环境，清晨，金色阳光，高度细节，
+	- 美丽的女孩，在被单里，慌乱，玻璃窗，幻想，复杂的体积环境，清晨，金色阳光，高度细节，
 		- A pretty chinese girl , lying in the quilt, confusion, glass window, complex volume environment, early morning, golden sunshine, high detail,high delicate defined details,  studio ghibli, painterly style, trending on artstation
 	- 女孩站在草坪上，很痛苦样子，红色和黄色的小花，布谷鸟
-		- A pretty chinese girl standing on the lawn with a distressed look, small red and yellow flowers, cuckoo, fantasy, intricate, volumetric environment, early morning, golden sunshine, high detail,high delicate defined details, art by studio ghibli and Alphonse mucha, painterly style, trending on artstation, masterpiece, 8k.
+		- A pretty chinese girl standing on the lawn , very painful , small red and yellow flowers, cuckoo, intricate, volumetric environment, early morning,  high detail,high delicate defined details, studio ghibli , painterly style, trending on artstation, masterpiece
 	- 男孩坐在窗前，下雨的夏天，河岸的垂柳，枝条在风里飘来飘去，叶子到处飞
 	- 青松像女仆招手流泪滴雨，快乐的花草，流星般的大雨暴雨，绿色
