@@ -222,5 +222,5 @@
 		- A pretty chinese girl standing on the lawn , wearing white clothes, sad , small yellow flowers, cuckoo, early morning,  high detail,high delicate defined details, studio ghibli , painterly style, trending on artstation, masterpiece
 	- 一位帅气的中国男孩坐在玻璃窗前，下雨的夏天，河岸的垂柳，枝条在风里飘摇，叶子到处飞
 		- A handsome Chinese boy was sitting in front of a glass window. On a rainy summer, the weeping willows on the river bank fluttered in the wind and the leaves flew everywhere, high detail,high delicate defined details, studio ghibli , painterly style, trending on artstation, masterpiece
-	- 一位帅气的中国男孩坐在窗前看向窗外，下暴雨的夏天，青松摇晃，空中飞，流星般的大雨暴雨，绿色
-		-
+	- 一位帅气的中国男孩坐在窗前看向窗外，下暴雨的夏天，青松摇晃，空中飞动着花和小草和叶子
+		- A handsome Chinese  boy sits in front of the window and looks out the window, green pines are swaying in the summer with heavy rain, flowers and small grass and leaves are flying in the air,  high detail,high delicate defined details, studio ghibli , painterly style, trending on artstation, masterpiece
