@@ -152,7 +152,6 @@
 		- Portrait of a machine from horizon zero dawn, machine face, upper body, decorated with chinese opera motifs, asian, traditional chinese art, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, 8 k
 			- 从地平线零黎明开始的机器肖像，机器脸，上身，装饰有中国歌剧图案，亚洲，中国传统艺术，复杂，优雅，高度详细，数字绘画，艺术站，概念艺术，平滑，清晰的焦点，插图，artgerm和greg rutkowski和alphonse mucha的艺术，8 k
 	- An original game concept scene painting of an opulent palast chinese style ， super wide angle, magnificent and gorgeous atmosphere ， matte painting ， rtx on ， by moebius, neil blevins and jordan grimmer ， trending on cgsociety and artstation, unreal engine ， volumetric light ， surreal
-	  collapsed:: true
 		- 原创游戏概念场景画，富丽堂皇的中国风，超广角，大气华丽，哑光绘画，rtx on，由moebius、neil blevins和jordan grimmer，cgsociety和artstation流行，虚幻引擎，体积光，超现实
 		- Misterious temple in the jungle in chinese style
 		- An original game concept scene painting of an opulent marketplace street scene in chinese style
