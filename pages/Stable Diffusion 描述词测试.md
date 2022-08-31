@@ -217,4 +217,5 @@
 - 来自 [Lexica – chinese](https://lexica.art/?q=chinese) 可用的描述词二
 	- Still photo of a chinese child smiling at the camera on the street, black and white color aesthetic, highly detailed, photorealistic portrait, bright studio setting, studio lighting, crisp quality and light reflections, unreal engine 5 quality render
 	- 伞，女孩
-	- 清晨阳光，远景铺上了金字的
+	- 清晨，远景铺上了金色的阳光，刚做完梦的女孩把自己裹在被单里
+	-
