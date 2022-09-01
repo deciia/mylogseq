@@ -45,7 +45,10 @@
   :block/updated-at 1661893376003}
  {:block/name "2022年08月31日",
   :block/created-at 1661875257145,
-  :block/updated-at 1661915390340}
+  :block/updated-at 1661952451687}
+ {:block/name "2022年09月01日",
+  :block/created-at 1661961659315,
+  :block/updated-at 1661961659315}
  {:block/name "62f79170-e765-4e5a-bb36-83b192746ce0",
   :block/created-at 1661331652882,
   :block/updated-at 1661331652882}
@@ -207,10 +210,13 @@
   :block/updated-at 1661829757854}
  {:block/name "庭燎馆",
   :block/created-at 1660297473510,
-  :block/updated-at 1661919270044}
+  :block/updated-at 1661982194587}
  {:block/name "异恒deciia共进创作声明",
   :block/created-at 1661774478125,
   :block/updated-at 1661897502994}
+ {:block/name "思维模型",
+  :block/created-at 1661952074137,
+  :block/updated-at 1661952074137}
  {:block/name "思考",
   :block/created-at 1661436594200,
   :block/updated-at 1661436594200}
@@ -223,6 +229,9 @@
  {:block/name "故事灵感",
   :block/created-at 1661900201210,
   :block/updated-at 1661900201210}
+ {:block/name "方法论",
+  :block/created-at 1661951902371,
+  :block/updated-at 1661951902371}
  {:block/name "更新时间",
   :block/created-at 1661766647522,
   :block/updated-at 1661766647522}
