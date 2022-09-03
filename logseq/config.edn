@@ -172,7 +172,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["幻境的庭燎馆主题" "庭燎馆" "AI 图片生成" "nobelium" "学习目标" "更新日志" "书单" "Git" "MyRSS" "从WorkFlowy迁移过来的卡片"]
+ :favorites ["幻境的庭燎馆主题" "庭燎馆" "AI 图片生成" "nobelium" "学习目标" "更新日志" "Git" "MyRSS" "从WorkFlowy迁移过来的卡片"]
  :journal/page-title-format "yyyy年MM月dd日"
  :feature/enable-journals? true
  :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 0}, :checkbox {:counts 0}, :parentheses {:counts 0}, :command {:counts 0}, :calendar {:counts 0}, :paint {:counts 0}, :list {:counts 0}, :link {:counts 2}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 0}, :rotate {:counts 0}, :tag {:counts 0}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 0}}
