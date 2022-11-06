@@ -477,10 +477,10 @@
   :block/updated-at 1667540700071}
  {:block/name "2022年11月04日",
   :block/created-at 1667533778149,
-  :block/updated-at 1667612609636}
+  :block/updated-at 1667705759902}
  {:block/name "2022年11月05日",
   :block/created-at 1667586475019,
-  :block/updated-at 1667703874208}
+  :block/updated-at 1667706983955}
  {:block/name "2022年11月06日",
   :block/created-at 1667702689075,
   :block/updated-at 1667703861259}
@@ -1163,7 +1163,7 @@
  {:block/name "视频",
   :block/created-at 1662562064866,
   :block/updated-at 1662562064866}
- {:block/name "视频前辑",
+ {:block/name "视频剪辑",
   :block/created-at 1662181015244,
   :block/updated-at 1662181015244}
  {:block/name "言论",
